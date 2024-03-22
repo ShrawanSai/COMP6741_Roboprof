@@ -6,9 +6,10 @@
 @prefix acaddata: <http://acad.io/data#> .
 @prefix vivo: <http://vivoweb.org/ontology/core#> .
 
-# ---------------------------------------------------------------------------
-#                 U N I V E R S I T Y   D E F I N I T I O N S
-# ---------------------------------------------------------------------------
+
+# UNIVERSITIES
+# ------------
+
 acad:University
     a rdfs:Class ;
     rdfs:subClassOf foaf:Organization ;
@@ -44,9 +45,8 @@ acad:offers
     rdfs:comment "A university offers a selection of courses."@en .
 
 
-# ---------------------------------------------------------------------------
-#                   C O U R S E   D E F I N I T I O N S
-# ---------------------------------------------------------------------------
+# COURSES
+# ---------
 acad:Course
     a rdfs:Class ;
     rdfs:label "Course"@en ;
@@ -107,9 +107,9 @@ acad:hasLecture
     rdfs:comment "Indicates that a course has one or more lectures."@en .
 
 
-# ---------------------------------------------------------------------------
-#                   L E C T U R E   D E F I N I T I O N S
-# ---------------------------------------------------------------------------
+
+# LECTURES
+# ---------
 acad:Lecture
     a rdfs:Class ;
     rdfs:label "Lecture"@en ;
@@ -140,9 +140,9 @@ acad:hasContent
     rdfs:comment "Content for a course lecture"@en .
 
 
-# ---------------------------------------------------------------------------
-#                       T O P I C  D E F I N I T I O N S
-# ---------------------------------------------------------------------------
+
+# TOPICS
+# -------
 acad:Topic
     a rdfs:Class ;
     rdfs:label "Topic"@en ;
@@ -167,9 +167,9 @@ acad:hasTopicLink
     rdfs:comment "Links to additional information about the topic."@en .
 
 
-# ---------------------------------------------------------------------------
-#                   S T U D E N T   D E F I N I T I O N S
-# ---------------------------------------------------------------------------
+
+# STUDENTS
+# --------
 acad:Student
     a rdfs:Class ;
     rdfs:label "Student"@en ;
@@ -205,9 +205,9 @@ acad:completedCourse
     rdfs:label "Completed Course"@en ;
     rdfs:comment "Courses successfully completed by the student."@en .
 
-# ---------------------------------------------------------------------------
-#                           COMPLETED COURSES DEFINITIONS 
-# ---------------------------------------------------------------------------
+
+# COMPLETED COURSES 
+# ------------------
 acad:CompletedCourse
     a rdfs:Class ;
     rdfs:label "Completed Course"@en ;
@@ -220,25 +220,40 @@ acad:hasCourse
     rdfs:label "Has Course"@en ;
     rdfs:comment "The course that has been completed."@en .
 
-acad:courseGrade
+
+#HELPER CLASSES (LIKE BLANK NODES)
+
+acad:GradeSemesterPair
+    a rdfs:Class ;
+    rdfs:label "Grade Semester Pair"@en ;
+    rdfs:comment "Pair representing the course grade and semester."@en .
+
+acad:courseGradeSemester
     a rdf:Property ;
     rdfs:domain acad:CompletedCourse ;
+    rdfs:range acad:GradeSemesterPair ;
+    rdfs:label "Course Grade Semester"@en ;
+    rdfs:comment "Represents the pair of course grade and semester."@en .
+
+acad:courseGrade
+    a rdf:Property ;
+    rdfs:domain acad:GradeSemesterPair ;
     rdfs:range xsd:string ;
     rdfs:label "Course Grade"@en ;
     rdfs:comment "The grade obtained by the student for the completed course."@en .
 
 acad:courseSemester
     a rdf:Property ;
-    rdfs:domain acad:CompletedCourse ;
+    rdfs:domain acad:GradeSemesterPair ;
     rdfs:range xsd:string ;
     rdfs:label "Course Semester"@en ;
-    rdfs:comment "The semester in which the course was completed."@en .
+    rdfs:comment "The semester in which the course was completed."@en . 
 
 
 
-# ---------------------------------------------------------------------------
-#                           S U B - C L A S S E S
-# ---------------------------------------------------------------------------
+
+# SUB - CLASSES
+# --------------
 acad:Slides
     a foaf:Document ;
     rdfs:label "Lecture slides"@en ;
