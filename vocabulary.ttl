@@ -1,0 +1,257 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix acad: <http://acad.io/schema#> .
+@prefix acaddata: <http://acad.io/data#> .
+@prefix vivo: <http://vivoweb.org/ontology/core#> .
+
+# ---------------------------------------------------------------------------
+#                 U N I V E R S I T Y   D E F I N I T I O N S
+# ---------------------------------------------------------------------------
+acad:University
+    a rdfs:Class ;
+    rdfs:subClassOf foaf:Organization ;
+    rdfs:label "University"@en ;
+    rdfs:comment "University class"@en .
+
+acad:universityName
+    a rdf:Property ;
+    rdfs:domain acad:University ;
+    rdfs:range xsd:string ;
+    rdfs:label "University Name"@en ;
+    rdfs:comment "The name of the University."@en .
+
+acad:universityDBpediaLink
+    a rdf:Property ;
+    rdfs:domain acad:University ;
+    rdfs:range xsd:anyURI ;
+    rdfs:label "University DBpedia Link"@en ;
+    rdfs:comment "Link to the university's entry in DBpedia."@en .
+
+acad:universityWikidataLink
+    a rdf:Property ;
+    rdfs:domain acad:University ;
+    rdfs:range xsd:anyURI ;
+    rdfs:label "University Wikidata Link"@en ;
+    rdfs:comment "Link to the university's entry in Wikidata."@en .
+
+acad:offers
+    a rdf:Property ;
+    rdfs:domain acad:University ;
+    rdfs:range vivo:Course ;
+    rdfs:label "University offers course"@en ;
+    rdfs:comment "A university offers a selection of courses."@en .
+
+
+# ---------------------------------------------------------------------------
+#                   C O U R S E   D E F I N I T I O N S
+# ---------------------------------------------------------------------------
+acad:Course
+    a rdfs:Class ;
+    rdfs:label "Course"@en ;
+    rdfs:comment "Course offered by a university."@en .
+acad:courseName
+    a rdf:Property ;
+    rdfs:domain vivo:Course ;
+    rdfs:range xsd:string ;
+    rdfs:label "Course Name"@en ;
+    rdfs:comment "The name of the course."@en .
+acad:courseSubject
+    a rdf:Property ;
+    rdfs:domain vivo:Course ;
+    rdfs:range xsd:string ;
+    rdfs:label "Course Subject"@en ;
+    rdfs:comment "A course subject is the first part of a course code and is often a series of letters, indicating the course's general subject/discipline."@en .
+acad:courseNumber
+    a rdf:Property ;
+    rdfs:domain vivo:Course ;
+    rdfs:range xsd:int ;
+    rdfs:label "Course Number"@en ;
+    rdfs:comment "A course number is the second part of a course code and is often three to four digits long. The number identifies the course level and distinguishes different courses that are from the same department at the same level."@en .
+acad:courseCredits
+    a rdf:Property ;
+    rdfs:domain vivo:Course ;
+    rdfs:range xsd:int ;
+    rdfs:label "Course Credits"@en ;
+    rdfs:comment "The number of credits awarded for completing the course."@en .
+acad:courseDescription
+    a rdf:Property ;
+    rdfs:domain vivo:Course ;
+    rdfs:range xsd:string ;
+    rdfs:label "Course Description"@en ;
+    rdfs:comment "A textual description of the course content."@en .
+acad:courseWebpage
+    a rdf:Property ;
+    rdfs:domain vivo:Course ;
+    rdfs:range xsd:anyURI ;
+    rdfs:label "Course Webpage"@en ;
+    rdfs:comment "A link to a webpage with detailed information about the course."@en .
+acad:courseOutline
+    a rdf:Property ;
+    rdfs:domain vivo:Course ;
+    rdfs:range foaf:Document ;
+    rdfs:label "Course Outline"@en ;
+    rdfs:comment "A link to a webpage or document containing the course outline."@en .
+acad:coversTopic
+    a rdf:Property ;
+    rdfs:domain vivo:Course ;
+    rdfs:range acad:Topic ;
+    rdfs:label "Covers Topic"@en ;
+    rdfs:comment "Topics covered in a course."@en .
+acad:hasLecture
+    a rdf:Property ;
+    rdfs:domain acad:Course ;
+    rdfs:range acad:Lecture ;
+    rdfs:label "Course has lectures"@en ;
+    rdfs:comment "Indicates that a course has one or more lectures."@en .
+
+
+# ---------------------------------------------------------------------------
+#                   L E C T U R E   D E F I N I T I O N S
+# ---------------------------------------------------------------------------
+acad:Lecture
+    a rdfs:Class ;
+    rdfs:label "Lecture"@en ;
+    rdfs:comment "Lecture component of a Course"@en .
+acad:lectureNumber
+    a rdf:Property ;
+    rdfs:domain acad:Lecture ;
+    rdfs:range xsd:int ;
+    rdfs:label "Lecture Number"@en ;
+    rdfs:comment "Lecture number in a course"@en .
+acad:lectureName
+    a rdf:Property ;
+    rdfs:domain acad:Lecture ;
+    rdfs:range xsd:string ;
+    rdfs:label "Lecture Name"@en ;
+    rdfs:comment "Name of the lecture."@en .
+acad:lectureLink
+    a rdf:Property ;
+    rdfs:domain acad:Lecture ;
+    rdfs:range xsd:anyURI ;
+    rdfs:label "Lecture Link"@en ;
+    rdfs:comment "A link to additional information about the lecture."@en .
+acad:hasContent
+    a rdf:Property ;
+    rdfs:domain acad:Lecture ;
+    rdfs:range acad:Slides, acad:Worksheet, acad:Reading, acad:otherLectureContent ;
+    rdfs:label "Lecture has content"@en ;
+    rdfs:comment "Content for a course lecture"@en .
+
+
+# ---------------------------------------------------------------------------
+#                       T O P I C  D E F I N I T I O N S
+# ---------------------------------------------------------------------------
+acad:Topic
+    a rdfs:Class ;
+    rdfs:label "Topic"@en ;
+    rdfs:comment "Topic discussed in a given course."@en .
+acad:topicName
+    a rdf:Property ;
+    rdfs:domain acad:Topic ;
+    rdfs:range xsd:string ;
+    rdfs:label "Topic Name"@en ;
+    rdfs:comment "A name for the topic."@en .
+acad:hasProvenanceInformation
+    a rdf:Property ;
+    rdfs:domain acad:Topic ;
+    rdfs:range acad:Lecture ;
+    rdfs:label "Provenance Information"@en ;
+    rdfs:comment "Identifies where the topic was identified as being covered in the course."@en .
+acad:hasTopicLink
+    a rdf:Property ;
+    rdfs:domain acad:Topic ;
+    rdfs:range xsd:anyURI ;
+    rdfs:label "Topic Link"@en ;
+    rdfs:comment "Links to additional information about the topic."@en .
+
+
+# ---------------------------------------------------------------------------
+#                   S T U D E N T   D E F I N I T I O N S
+# ---------------------------------------------------------------------------
+acad:Student
+    a rdfs:Class ;
+    rdfs:label "Student"@en ;
+    rdfs:comment "Student enrolled at a university."@en .
+acad:studentName
+    a rdf:Property ;
+    rdfs:domain acad:Student ;
+    rdfs:range xsd:string ;
+    rdfs:label "Student Name"@en ;
+    rdfs:comment "Name of the student."@en .
+acad:studentID
+    a rdf:Property ;
+    rdfs:domain acad:Student ;
+    rdfs:range xsd:string ;
+    rdfs:label "Student ID"@en ;
+    rdfs:comment "Unique identifier of the student."@en .
+acad:studentEmail
+    a rdf:Property ;
+    rdfs:domain acad:Student ;
+    rdfs:range xsd:string ;
+    rdfs:label "Student Email"@en ;
+    rdfs:comment "Email address of the student."@en .
+acad:studiesAt
+    a rdf:Property ;
+    rdfs:domain acad:Student ;
+    rdfs:range acad:University ;
+    rdfs:label "studiesAt"@en ;
+    rdfs:comment "Indicates the university where a student is enrolled."@en .
+acad:completedCourse
+    a rdf:Property ;
+    rdfs:domain acad:Student ;
+    rdfs:range acad:CompletedCourse ;
+    rdfs:label "Completed Course"@en ;
+    rdfs:comment "Courses successfully completed by the student."@en .
+
+# ---------------------------------------------------------------------------
+#                           COMPLETED COURSES DEFINITIONS 
+# ---------------------------------------------------------------------------
+acad:CompletedCourse
+    a rdfs:Class ;
+    rdfs:label "Completed Course"@en ;
+    rdfs:comment "Association between a completed course and the student."@en .
+
+acad:hasCourse
+    a rdf:Property ;
+    rdfs:domain acad:CompletedCourse ;
+    rdfs:range acad:Course ;
+    rdfs:label "Has Course"@en ;
+    rdfs:comment "The course that has been completed."@en .
+
+acad:courseGrade
+    a rdf:Property ;
+    rdfs:domain acad:CompletedCourse ;
+    rdfs:range xsd:string ;
+    rdfs:label "Course Grade"@en ;
+    rdfs:comment "The grade obtained by the student for the completed course."@en .
+
+acad:courseSemester
+    a rdf:Property ;
+    rdfs:domain acad:CompletedCourse ;
+    rdfs:range xsd:string ;
+    rdfs:label "Course Semester"@en ;
+    rdfs:comment "The semester in which the course was completed."@en .
+
+
+
+# ---------------------------------------------------------------------------
+#                           S U B - C L A S S E S
+# ---------------------------------------------------------------------------
+acad:Slides
+    a foaf:Document ;
+    rdfs:label "Lecture slides"@en ;
+    rdfs:comment "Slides for a course lecture"@en .
+acad:Worksheet
+    a foaf:Document ;
+    rdfs:label "Worksheet"@en ;
+    rdfs:comment "Worksheet for a course lecture"@en .
+acad:Reading
+    a foaf:Document ;
+    rdfs:label "Reading"@en ;
+    rdfs:comment "Reading assigned for a course lecture"@en .
+acad:otherLectureContent
+    a foaf:Document ;
+    rdfs:label "Other content"@en ;
+    rdfs:comment "Other content for a course lecture"@en .
