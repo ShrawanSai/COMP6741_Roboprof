@@ -1,0 +1,18 @@
+
+PREFIX vivo: <http://vivoweb.org/ontology/core#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX acad: <http://acad.io/schema#>
+SELECT ?courseName ?courseSubject ?courseNumber
+    WHERE { 
+  	  ?course rdf:type vivo:Course ;
+              acad:courseName ?courseName ;
+  			  acad:courseSubject ?courseSubject ;
+  			  acad:courseNumber ?courseNumber ;
+              acad:coversTopic ?topic .
+      ?topic rdf:type acad:Topic ;
+              acad:topicName ?topicName .
+      FILTER(?topicName = "Knowledge Graphs")
+}

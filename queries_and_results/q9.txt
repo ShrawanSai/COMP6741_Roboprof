@@ -1,0 +1,26 @@
+
+PREFIX ac: <http://umbel.org/umbel/ac/>
+PREFIX prefix: <http://prefix.cc/>
+PREFIX vivo: <http://vivoweb.org/ontology/core#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX acad: <http://acad.io/schema#>
+
+SELECT DISTINCT ?content ?topicName 
+WHERE {
+  ?course rdf:type vivo:Course ;
+          acad:courseSubject ?courseSubject ;
+          acad:coversTopic ?topic
+          FILTER (?courseSubject = "COMP") 
+  
+  ?topic rdf:type acad:Topic ;
+         acad:topicName ?topicName .
+  FILTER(?topicName = "Polymorphism")
+
+  ?lecture rdf:type acad:Lecture ;
+           acad:hasContent ?content .
+  ?content a ?class .
+  FILTER (?class = acad:Reading)
+}

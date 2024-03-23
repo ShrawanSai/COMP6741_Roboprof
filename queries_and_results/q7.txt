@@ -1,0 +1,22 @@
+
+PREFIX vivo: <http://vivoweb.org/ontology/core#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX acad: <http://acad.io/schema#>
+
+SELECT DISTINCT ?courseWebpage ?lectureLink ?topicLink
+WHERE {
+  ?course rdf:type vivo:Course ;
+          acad:courseNumber ?courseNumber ;
+          acad:courseSubject ?courseSubject ;
+          acad:courseWebpage ?courseWebpage ;
+          acad:coversTopic ?topic ;
+          acad:hasLecture ?lecture .
+          FILTER (?courseSubject = "COMP" && ?courseNumber = "6741") 
+  ?lecture rdf:type acad:Lecture ;
+          acad:lectureLink ?lectureLink .
+  ?topic rdf:type acad:Topic ;
+         acad:hasTopicLink ?topicLink
+  
+}

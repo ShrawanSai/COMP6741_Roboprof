@@ -1,0 +1,28 @@
+
+PREFIX vivo: <http://vivoweb.org/ontology/core#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX acad: <http://acad.io/schema#>
+
+SELECT ?courseGrade 
+WHERE {
+  ?course rdf:type vivo:Course ;
+          acad:courseNumber ?courseNumber ;
+          acad:courseSubject ?courseSubject .
+          FILTER (?courseSubject = "COMP" && ?courseNumber = "6741") 
+  
+  ?student rdf:type acad:Student ;
+          acad:studentID ?studentID ;
+  		  acad:completedCourse ?courseCompletion .
+  		  FILTER (?studentID = "101")
+  
+  ?courseCompletion rdf:type acad:CompletedCourse ;
+         acad:hasCourse ?course ;
+  		 acad:courseGradeSemester ?courseGradeSemesterPair .
+  
+  ?courseGradeSemesterPair rdf:type acad:GradeSemesterPair ;
+                    acad:courseGrade ?courseGrade .
+}
+
