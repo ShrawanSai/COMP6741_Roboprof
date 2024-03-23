@@ -1,0 +1,7 @@
+
+PREFIX vivo: <http://vivoweb.org/ontology/core#>
+SELECT  (COUNT(*) AS ?numberOfCourseURIs)
+WHERE {
+ 	?courseURI a vivo:Course.
+}
+
