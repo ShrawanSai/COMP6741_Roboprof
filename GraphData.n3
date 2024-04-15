@@ -62,2678 +62,2678 @@ acaddata:mcgill a acad:University ;
     acad:universityWikidataLink ns2:Q201492 .
 
 <7-Eleven> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/7-Eleven"^^xsd:string ;
     acad:topicName "7-Eleven"^^xsd:string .
 
 <A-_and_B-class_destroyer> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/A-_and_B-class_destroyer"^^xsd:string ;
     acad:topicName "A-_and_B-class_destroyer"^^xsd:string .
 
 <AI_winter> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/AI_winter"^^xsd:string ;
     acad:topicName "AI_winter"^^xsd:string .
 
 <Abstract_type> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Abstract_type"^^xsd:string ;
     acad:topicName "Abstract_type"^^xsd:string .
 
 <Abstraction> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Abstraction"^^xsd:string ;
     acad:topicName "Abstraction"^^xsd:string .
 
 <Academic_dishonesty> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Academic_dishonesty"^^xsd:string ;
     acad:topicName "Academic_dishonesty"^^xsd:string .
 
 <Academic_integrity> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Academic_integrity"^^xsd:string ;
     acad:topicName "Academic_integrity"^^xsd:string .
 
 <Academy_Awards> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Academy_Awards"^^xsd:string ;
     acad:topicName "Academy_Awards"^^xsd:string .
 
 <Access_control> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Access_control"^^xsd:string ;
     acad:topicName "Access_control"^^xsd:string .
 
 <Acquire> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Acquire"^^xsd:string ;
     acad:topicName "Acquire"^^xsd:string .
 
 <Active_learning> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Active_learning"^^xsd:string ;
     acad:topicName "Active_learning"^^xsd:string .
 
 <Addison-Wesley> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Addison-Wesley"^^xsd:string ;
     acad:topicName "Addison-Wesley"^^xsd:string .
 
 <Adenosine_A1_receptor> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Adenosine_A1_receptor"^^xsd:string ;
     acad:topicName "Adenosine_A1_receptor"^^xsd:string .
 
 <Adhesive> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Adhesive"^^xsd:string ;
     acad:topicName "Adhesive"^^xsd:string .
 
 <Agent-based_model> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Agent-based_model"^^xsd:string ;
     acad:topicName "Agent-based_model"^^xsd:string .
 
 <Aidan_of_Lindisfarne> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Aidan_of_Lindisfarne"^^xsd:string ;
     acad:topicName "Aidan_of_Lindisfarne"^^xsd:string .
 
 <Aiman> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Aiman"^^xsd:string ;
     acad:topicName "Aiman"^^xsd:string .
 
 <Algebra> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Algebra"^^xsd:string ;
     acad:topicName "Algebra"^^xsd:string .
 
 <Alice_and_Bob> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Alice_and_Bob"^^xsd:string ;
     acad:topicName "Alice_and_Bob"^^xsd:string .
 
 <Allan_Hobson> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Allan_Hobson"^^xsd:string ;
     acad:topicName "Allan_Hobson"^^xsd:string .
 
 <Amazon_Alexa> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Amazon_Alexa"^^xsd:string ;
     acad:topicName "Amazon_Alexa"^^xsd:string .
 
 <Amazon_rainforest> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Amazon_rainforest"^^xsd:string ;
     acad:topicName "Amazon_rainforest"^^xsd:string .
 
 <American_Civil_War> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/American_Civil_War"^^xsd:string ;
     acad:topicName "American_Civil_War"^^xsd:string .
 
 <Amplifier> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Amplifier"^^xsd:string ;
     acad:topicName "Amplifier"^^xsd:string .
 
 <Andes> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Andes"^^xsd:string ;
     acad:topicName "Andes"^^xsd:string .
 
 <Anja_Eline_Skybakmoen> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Anja_Eline_Skybakmoen"^^xsd:string ;
     acad:topicName "Anja_Eline_Skybakmoen"^^xsd:string .
 
 <Apache_CouchDB> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Apache_CouchDB"^^xsd:string ;
     acad:topicName "Apache_CouchDB"^^xsd:string .
 
 <Apache_HTTP_Server> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Apache_HTTP_Server"^^xsd:string ;
     acad:topicName "Apache_HTTP_Server"^^xsd:string .
 
 <Apache_Lucene> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Apache_Lucene"^^xsd:string ;
     acad:topicName "Apache_Lucene"^^xsd:string .
 
 <Apache_Solr> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Apache_Solr"^^xsd:string ;
     acad:topicName "Apache_Solr"^^xsd:string .
 
 <Application_programming_interface> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Application_programming_interface"^^xsd:string ;
     acad:topicName "Application_programming_interface"^^xsd:string .
 
 <Artificial_intelligence> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Artificial_intelligence"^^xsd:string ;
     acad:topicName "Artificial_intelligence"^^xsd:string .
 
 <Artificial_neural_network> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Artificial_neural_network"^^xsd:string ;
     acad:topicName "Artificial_neural_network"^^xsd:string .
 
 <Asperger_syndrome> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Asperger_syndrome"^^xsd:string ;
     acad:topicName "Asperger_syndrome"^^xsd:string .
 
 <Association_for_Computing_Machinery> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Association_for_Computing_Machinery"^^xsd:string ;
     acad:topicName "Association_for_Computing_Machinery"^^xsd:string .
 
 <Auteur> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Auteur"^^xsd:string ;
     acad:topicName "Auteur"^^xsd:string .
 
 <Automat> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Automat"^^xsd:string ;
     acad:topicName "Automat"^^xsd:string .
 
 <Automatic_summarization> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Automatic_summarization"^^xsd:string ;
     acad:topicName "Automatic_summarization"^^xsd:string .
 
 <Automation> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Automation"^^xsd:string ;
     acad:topicName "Automation"^^xsd:string .
 
 <Autonomous_robot> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Autonomous_robot"^^xsd:string ;
     acad:topicName "Autonomous_robot"^^xsd:string .
 
 <Azimuth> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Azimuth"^^xsd:string ;
     acad:topicName "Azimuth"^^xsd:string .
 
 <BASE_jumping> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/BASE_jumping"^^xsd:string ;
     acad:topicName "BASE_jumping"^^xsd:string .
 
 <Basketball_Super_League> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Basketball_Super_League"^^xsd:string ;
     acad:topicName "Basketball_Super_League"^^xsd:string .
 
 <Battle_of_Antietam> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Battle_of_Antietam"^^xsd:string ;
     acad:topicName "Battle_of_Antietam"^^xsd:string .
 
 <Battle_of_Fredericksburg> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Battle_of_Fredericksburg"^^xsd:string ;
     acad:topicName "Battle_of_Fredericksburg"^^xsd:string .
 
 <Battle_of_Gettysburg> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Battle_of_Gettysburg"^^xsd:string ;
     acad:topicName "Battle_of_Gettysburg"^^xsd:string .
 
 <Belarus> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Belarus"^^xsd:string ;
     acad:topicName "Belarus"^^xsd:string .
 
 <Bennet_family> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Bennet_family"^^xsd:string ;
     acad:topicName "Bennet_family"^^xsd:string .
 
 <Berlin> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Berlin"^^xsd:string ;
     acad:topicName "Berlin"^^xsd:string .
 
 <Bhagat_Singh> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Bhagat_Singh"^^xsd:string ;
     acad:topicName "Bhagat_Singh"^^xsd:string .
 
 <Binghamton_University> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Binghamton_University"^^xsd:string ;
     acad:topicName "Binghamton_University"^^xsd:string .
 
 <Birch_bark> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Birch_bark"^^xsd:string ;
     acad:topicName "Birch_bark"^^xsd:string .
 
 <Bit_error_rate> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Bit_error_rate"^^xsd:string ;
     acad:topicName "Bit_error_rate"^^xsd:string .
 
 <Bitwise_operation> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Bitwise_operation"^^xsd:string ;
     acad:topicName "Bitwise_operation"^^xsd:string .
 
 <Blackboard> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Blackboard"^^xsd:string ;
     acad:topicName "Blackboard"^^xsd:string .
 
 <Blog> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Blog"^^xsd:string ;
     acad:topicName "Blog"^^xsd:string .
 
 <Book_of_Ruth> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Book_of_Ruth"^^xsd:string ;
     acad:topicName "Book_of_Ruth"^^xsd:string .
 
 <Bookselling> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Bookselling"^^xsd:string ;
     acad:topicName "Bookselling"^^xsd:string .
 
 <Boolean_data_type> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Boolean_data_type"^^xsd:string ;
     acad:topicName "Boolean_data_type"^^xsd:string .
 
 <Bracket> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Bracket"^^xsd:string ;
     acad:topicName "Bracket"^^xsd:string .
 
 <Brainstorming> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Brainstorming"^^xsd:string ;
     acad:topicName "Brainstorming"^^xsd:string .
 
 <Browser_extension> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Browser_extension"^^xsd:string ;
     acad:topicName "Browser_extension"^^xsd:string .
 
 <Bulldog> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Bulldog"^^xsd:string ;
     acad:topicName "Bulldog"^^xsd:string .
 
 <Bundesautobahn_2> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Bundesautobahn_2"^^xsd:string ;
     acad:topicName "Bundesautobahn_2"^^xsd:string .
 
 <Business> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Business"^^xsd:string ;
     acad:topicName "Business"^^xsd:string .
 
 <Business_case> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Business_case"^^xsd:string ;
     acad:topicName "Business_case"^^xsd:string .
 
 <Byte> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Byte"^^xsd:string ;
     acad:topicName "Byte"^^xsd:string .
 
 <C0_and_C1_control_codes> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/C0_and_C1_control_codes"^^xsd:string ;
     acad:topicName "C0_and_C1_control_codes"^^xsd:string .
 
 <CLOUD_experiment> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/CLOUD_experiment"^^xsd:string ;
     acad:topicName "CLOUD_experiment"^^xsd:string .
 
 <C_syntax> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/C_syntax"^^xsd:string ;
     acad:topicName "C_syntax"^^xsd:string .
 
 <Calendar> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Calendar"^^xsd:string ;
     acad:topicName "Calendar"^^xsd:string .
 
 <Canada> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Canada"^^xsd:string ;
     acad:topicName "Canada"^^xsd:string .
 
 <Capitalism> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Capitalism"^^xsd:string ;
     acad:topicName "Capitalism"^^xsd:string .
 
 <Carlos_Zambrano> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Carlos_Zambrano"^^xsd:string ;
     acad:topicName "Carlos_Zambrano"^^xsd:string .
 
 <Carnivore> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Carnivore"^^xsd:string ;
     acad:topicName "Carnivore"^^xsd:string .
 
 <Cartesian_coordinate_system> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Cartesian_coordinate_system"^^xsd:string ;
     acad:topicName "Cartesian_coordinate_system"^^xsd:string .
 
 <Cattle> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Cattle"^^xsd:string ;
     acad:topicName "Cattle"^^xsd:string .
 
 <Chapter_9,_Title_11,_United_States_Code> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Chapter_9,_Title_11,_United_States_Code"^^xsd:string ;
     acad:topicName "Chapter_9,_Title_11,_United_States_Code"^^xsd:string .
 
 <Chatbot> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Chatbot"^^xsd:string ;
     acad:topicName "Chatbot"^^xsd:string .
 
 <Christianity> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Christianity"^^xsd:string ;
     acad:topicName "Christianity"^^xsd:string .
 
 <City> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/City"^^xsd:string ;
     acad:topicName "City"^^xsd:string .
 
 <Clause> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Clause"^^xsd:string ;
     acad:topicName "Clause"^^xsd:string .
 
 <Clear_Script> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Clear_Script"^^xsd:string ;
     acad:topicName "Clear_Script"^^xsd:string .
 
 <Cloning> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Cloning"^^xsd:string ;
     acad:topicName "Cloning"^^xsd:string .
 
 <Cloud_computing> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Cloud_computing"^^xsd:string ;
     acad:topicName "Cloud_computing"^^xsd:string .
 
 <Cluster_analysis> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Cluster_analysis"^^xsd:string ;
     acad:topicName "Cluster_analysis"^^xsd:string .
 
 <Code_review> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Code_review"^^xsd:string ;
     acad:topicName "Code_review"^^xsd:string .
 
 <Coffee> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Coffee"^^xsd:string ;
     acad:topicName "Coffee"^^xsd:string .
 
 <Cole_Howard> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Cole_Howard"^^xsd:string ;
     acad:topicName "Cole_Howard"^^xsd:string .
 
 <Command_and_control> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Command_and_control"^^xsd:string ;
     acad:topicName "Command_and_control"^^xsd:string .
 
 <Communication> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Communication"^^xsd:string ;
     acad:topicName "Communication"^^xsd:string .
 
 <Compact_disc> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Compact_disc"^^xsd:string ;
     acad:topicName "Compact_disc"^^xsd:string .
 
 <Compile_time> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Compile_time"^^xsd:string ;
     acad:topicName "Compile_time"^^xsd:string .
 
 <Complement_system> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Complement_system"^^xsd:string ;
     acad:topicName "Complement_system"^^xsd:string .
 
 <Compound_annual_growth_rate> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Compound_annual_growth_rate"^^xsd:string ;
     acad:topicName "Compound_annual_growth_rate"^^xsd:string .
 
 <Computer> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Computer"^^xsd:string ;
     acad:topicName "Computer"^^xsd:string .
 
 <Computer_keyboard> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Computer_keyboard"^^xsd:string ;
     acad:topicName "Computer_keyboard"^^xsd:string .
 
 <Computer_program> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Computer_program"^^xsd:string ;
     acad:topicName "Computer_program"^^xsd:string .
 
 <Concordia_University> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Concordia_University"^^xsd:string ;
     acad:topicName "Concordia_University"^^xsd:string .
 
 <Conflict_resolution> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Conflict_resolution"^^xsd:string ;
     acad:topicName "Conflict_resolution"^^xsd:string .
 
 <Connecticut_Department_of_Energy_and_Environmental_Protection> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Connecticut_Department_of_Energy_and_Environmental_Protection"^^xsd:string ;
     acad:topicName "Connecticut_Department_of_Energy_and_Environmental_Protection"^^xsd:string .
 
 <Conscription> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Conscription"^^xsd:string ;
     acad:topicName "Conscription"^^xsd:string .
 
 <Construction> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Construction"^^xsd:string ;
     acad:topicName "Construction"^^xsd:string .
 
 <Constructor_(object-oriented_programming)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Constructor_(object-oriented_programming)"^^xsd:string ;
     acad:topicName "Constructor_(object-oriented_programming)"^^xsd:string .
 
 <Contract_bridge> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Contract_bridge"^^xsd:string ;
     acad:topicName "Contract_bridge"^^xsd:string .
 
 <Cortana> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Cortana"^^xsd:string ;
     acad:topicName "Cortana"^^xsd:string .
 
 <Couchbase_Server> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Couchbase_Server"^^xsd:string ;
     acad:topicName "Couchbase_Server"^^xsd:string .
 
 <Covariance> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Covariance"^^xsd:string ;
     acad:topicName "Covariance"^^xsd:string .
 
 <Covariance_and_contravariance_of_vectors> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Covariance_and_contravariance_of_vectors"^^xsd:string ;
     acad:topicName "Covariance_and_contravariance_of_vectors"^^xsd:string .
 
 <Crutch> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Crutch"^^xsd:string ;
     acad:topicName "Crutch"^^xsd:string .
 
 <Curve> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Curve"^^xsd:string ;
     acad:topicName "Curve"^^xsd:string .
 
 <Cyc> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Cyc"^^xsd:string ;
     acad:topicName "Cyc"^^xsd:string .
 
 <DBpedia> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/DBpedia"^^xsd:string ;
     acad:topicName "DBpedia"^^xsd:string .
 
 <Data_integration> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Data_integration"^^xsd:string ;
     acad:topicName "Data_integration"^^xsd:string .
 
 <Data_model> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Data_model"^^xsd:string ;
     acad:topicName "Data_model"^^xsd:string .
 
 <Data_pre-processing> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Data_pre-processing"^^xsd:string ;
     acad:topicName "Data_pre-processing"^^xsd:string .
 
 <Data_structure> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Data_structure"^^xsd:string ;
     acad:topicName "Data_structure"^^xsd:string .
 
 <Data_type> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Data_type"^^xsd:string ;
     acad:topicName "Data_type"^^xsd:string .
 
 <Database> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Database"^^xsd:string ;
     acad:topicName "Database"^^xsd:string .
 
 <Database_schema> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Database_schema"^^xsd:string ;
     acad:topicName "Database_schema"^^xsd:string .
 
 <David_Rumelhart> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/David_Rumelhart"^^xsd:string ;
     acad:topicName "David_Rumelhart"^^xsd:string .
 
 <Death_of_a_Naturalist> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Death_of_a_Naturalist"^^xsd:string ;
     acad:topicName "Death_of_a_Naturalist"^^xsd:string .
 
 <Decomposition> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Decomposition"^^xsd:string ;
     acad:topicName "Decomposition"^^xsd:string .
 
 <Deep_learning> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Deep_learning"^^xsd:string ;
     acad:topicName "Deep_learning"^^xsd:string .
 
 <Derivative> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Derivative"^^xsd:string ;
     acad:topicName "Derivative"^^xsd:string .
 
 <Description_logic> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Description_logic"^^xsd:string ;
     acad:topicName "Description_logic"^^xsd:string .
 
 <Dewey_Decimal_Classification> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Dewey_Decimal_Classification"^^xsd:string ;
     acad:topicName "Dewey_Decimal_Classification"^^xsd:string .
 
 <Digital_data> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Digital_data"^^xsd:string ;
     acad:topicName "Digital_data"^^xsd:string .
 
 <Discovery_Channel> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Discovery_Channel"^^xsd:string ;
     acad:topicName "Discovery_Channel"^^xsd:string .
 
 <Dog> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Dog"^^xsd:string ;
     acad:topicName "Dog"^^xsd:string .
 
 <Dublin_Core> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Dublin_Core"^^xsd:string ;
     acad:topicName "Dublin_Core"^^xsd:string .
 
 <Duck> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Duck"^^xsd:string ;
     acad:topicName "Duck"^^xsd:string .
 
 <Dynamic_dispatch> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Dynamic_dispatch"^^xsd:string ;
     acad:topicName "Dynamic_dispatch"^^xsd:string .
 
 <E-carrier> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/E-carrier"^^xsd:string ;
     acad:topicName "E-carrier"^^xsd:string .
 
 <ELIZA> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/ELIZA"^^xsd:string ;
     acad:topicName "ELIZA"^^xsd:string .
 
 <Edward_S._Herman> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Edward_S._Herman"^^xsd:string ;
     acad:topicName "Edward_S._Herman"^^xsd:string .
 
 <Eigenvalues_and_eigenvectors> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Eigenvalues_and_eigenvectors"^^xsd:string ;
     acad:topicName "Eigenvalues_and_eigenvectors"^^xsd:string .
 
 <Email> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Email"^^xsd:string ;
     acad:topicName "Email"^^xsd:string .
 
 <Emergency_medical_services> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Emergency_medical_services"^^xsd:string ;
     acad:topicName "Emergency_medical_services"^^xsd:string .
 
 <English_language> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/English_language"^^xsd:string ;
     acad:topicName "English_language"^^xsd:string .
 
 <Entity_linking> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Entity_linking"^^xsd:string ;
     acad:topicName "Entity_linking"^^xsd:string .
 
 <Euclidean_space> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Euclidean_space"^^xsd:string ;
     acad:topicName "Euclidean_space"^^xsd:string .
 
 <Event-driven_programming> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Event-driven_programming"^^xsd:string ;
     acad:topicName "Event-driven_programming"^^xsd:string .
 
 <Everything2> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Everything2"^^xsd:string ;
     acad:topicName "Everything2"^^xsd:string .
 
 <Evolution> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Evolution"^^xsd:string ;
     acad:topicName "Evolution"^^xsd:string .
 
 <Exception_handling> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Exception_handling"^^xsd:string ;
     acad:topicName "Exception_handling"^^xsd:string .
 
 <Existence> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Existence"^^xsd:string ;
     acad:topicName "Existence"^^xsd:string .
 
 <Expert_system> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Expert_system"^^xsd:string ;
     acad:topicName "Expert_system"^^xsd:string .
 
 <FAQ> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/FAQ"^^xsd:string ;
     acad:topicName "FAQ"^^xsd:string .
 
 <FOAF_(ontology)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/FOAF_(ontology)"^^xsd:string ;
     acad:topicName "FOAF_(ontology)"^^xsd:string .
 
 <Facebook> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Facebook"^^xsd:string ;
     acad:topicName "Facebook"^^xsd:string .
 
 <Fake_news> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Fake_news"^^xsd:string ;
     acad:topicName "Fake_news"^^xsd:string .
 
 <Federation> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Federation"^^xsd:string ;
     acad:topicName "Federation"^^xsd:string .
 
 <FidoNet> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/FidoNet"^^xsd:string ;
     acad:topicName "FidoNet"^^xsd:string .
 
 <File_format> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/File_format"^^xsd:string ;
     acad:topicName "File_format"^^xsd:string .
 
 <First-order_logic> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/First-order_logic"^^xsd:string ;
     acad:topicName "First-order_logic"^^xsd:string .
 
 <Flickr> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Flickr"^^xsd:string ;
     acad:topicName "Flickr"^^xsd:string .
 
 <Formal_language> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Formal_language"^^xsd:string ;
     acad:topicName "Formal_language"^^xsd:string .
 
 <Fragile_base_class> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Fragile_base_class"^^xsd:string ;
     acad:topicName "Fragile_base_class"^^xsd:string .
 
 <French_language> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/French_language"^^xsd:string ;
     acad:topicName "French_language"^^xsd:string .
 
 <Frightful_Four> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Frightful_Four"^^xsd:string ;
     acad:topicName "Frightful_Four"^^xsd:string .
 
 <Full-text_search> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Full-text_search"^^xsd:string ;
     acad:topicName "Full-text_search"^^xsd:string .
 
 <GUID_Partition_Table> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/GUID_Partition_Table"^^xsd:string ;
     acad:topicName "GUID_Partition_Table"^^xsd:string .
 
 <Gartner> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Gartner"^^xsd:string ;
     acad:topicName "Gartner"^^xsd:string .
 
 <Gene_ontology> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Gene_ontology"^^xsd:string ;
     acad:topicName "Gene_ontology"^^xsd:string .
 
 <General_officer> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/General_officer"^^xsd:string ;
     acad:topicName "General_officer"^^xsd:string .
 
 <Ghostwriter> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Ghostwriter"^^xsd:string ;
     acad:topicName "Ghostwriter"^^xsd:string .
 
 <Gifted_education> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Gifted_education"^^xsd:string ;
     acad:topicName "Gifted_education"^^xsd:string .
 
 <GitHub> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/GitHub"^^xsd:string ;
     acad:topicName "GitHub"^^xsd:string .
 
 <GitLab> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/GitLab"^^xsd:string ;
     acad:topicName "GitLab"^^xsd:string .
 
 <Glossary> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Glossary"^^xsd:string ;
     acad:topicName "Glossary"^^xsd:string .
 
 <Goal_orientation> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Goal_orientation"^^xsd:string ;
     acad:topicName "Goal_orientation"^^xsd:string .
 
 <Google> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Google"^^xsd:string ;
     acad:topicName "Google"^^xsd:string .
 
 <Google_Assistant> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Google_Assistant"^^xsd:string ;
     acad:topicName "Google_Assistant"^^xsd:string .
 
 <Google_Nexus> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Google_Nexus"^^xsd:string ;
     acad:topicName "Google_Nexus"^^xsd:string .
 
 <Google_Search> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Google_Search"^^xsd:string ;
     acad:topicName "Google_Search"^^xsd:string .
 
 <Gospel_of_Luke> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Gospel_of_Luke"^^xsd:string ;
     acad:topicName "Gospel_of_Luke"^^xsd:string .
 
 <Graph_database> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Graph_database"^^xsd:string ;
     acad:topicName "Graph_database"^^xsd:string .
 
 <Graph_theory> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Graph_theory"^^xsd:string ;
     acad:topicName "Graph_theory"^^xsd:string .
 
 <Graphical_user_interface> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Graphical_user_interface"^^xsd:string ;
     acad:topicName "Graphical_user_interface"^^xsd:string .
 
 <Graphics> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Graphics"^^xsd:string ;
     acad:topicName "Graphics"^^xsd:string .
 
 <HTML> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/HTML"^^xsd:string ;
     acad:topicName "HTML"^^xsd:string .
 
 <Hallucination> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Hallucination"^^xsd:string ;
     acad:topicName "Hallucination"^^xsd:string .
 
 <Hanna_Marin> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Hanna_Marin"^^xsd:string ;
     acad:topicName "Hanna_Marin"^^xsd:string .
 
 <Hanover> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Hanover"^^xsd:string ;
     acad:topicName "Hanover"^^xsd:string .
 
 <HarperCollins> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/HarperCollins"^^xsd:string ;
     acad:topicName "HarperCollins"^^xsd:string .
 
 <Heidelberg> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Heidelberg"^^xsd:string ;
     acad:topicName "Heidelberg"^^xsd:string .
 
 <Herbert_A._Simon> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Herbert_A._Simon"^^xsd:string ;
     acad:topicName "Herbert_A._Simon"^^xsd:string .
 
 <How_Long_(Ace_song)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/How_Long_(Ace_song)"^^xsd:string ;
     acad:topicName "How_Long_(Ace_song)"^^xsd:string .
 
 <Human-readable_medium> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Human-readable_medium"^^xsd:string ;
     acad:topicName "Human-readable_medium"^^xsd:string .
 
 <Human_resources> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Human_resources"^^xsd:string ;
     acad:topicName "Human_resources"^^xsd:string .
 
 <Hypertext_Transfer_Protocol> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Hypertext_Transfer_Protocol"^^xsd:string ;
     acad:topicName "Hypertext_Transfer_Protocol"^^xsd:string .
 
 <IBM> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/IBM"^^xsd:string ;
     acad:topicName "IBM"^^xsd:string .
 
 <IBM_PC_compatible> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/IBM_PC_compatible"^^xsd:string ;
     acad:topicName "IBM_PC_compatible"^^xsd:string .
 
 <IDEN> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/IDEN"^^xsd:string ;
     acad:topicName "IDEN"^^xsd:string .
 
 <ING_Group> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/ING_Group"^^xsd:string ;
     acad:topicName "ING_Group"^^xsd:string .
 
 <Identity_management> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Identity_management"^^xsd:string ;
     acad:topicName "Identity_management"^^xsd:string .
 
 <Identity_theft> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Identity_theft"^^xsd:string ;
     acad:topicName "Identity_theft"^^xsd:string .
 
 <Image_scanner> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Image_scanner"^^xsd:string ;
     acad:topicName "Image_scanner"^^xsd:string .
 
 <Information_extraction> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Information_extraction"^^xsd:string ;
     acad:topicName "Information_extraction"^^xsd:string .
 
 <Information_hiding> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Information_hiding"^^xsd:string ;
     acad:topicName "Information_hiding"^^xsd:string .
 
 <Information_retrieval> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Information_retrieval"^^xsd:string ;
     acad:topicName "Information_retrieval"^^xsd:string .
 
 <Information_system> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Information_system"^^xsd:string ;
     acad:topicName "Information_system"^^xsd:string .
 
 <Inheritance_(object-oriented_programming)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Inheritance_(object-oriented_programming)"^^xsd:string ;
     acad:topicName "Inheritance_(object-oriented_programming)"^^xsd:string .
 
 <Insert_(SQL)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Insert_(SQL)"^^xsd:string ;
     acad:topicName "Insert_(SQL)"^^xsd:string .
 
 <Instance_variable> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Instance_variable"^^xsd:string ;
     acad:topicName "Instance_variable"^^xsd:string .
 
 <Institute_of_Electrical_and_Electronics_Engineers> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Institute_of_Electrical_and_Electronics_Engineers"^^xsd:string ;
     acad:topicName "Institute_of_Electrical_and_Electronics_Engineers"^^xsd:string .
 
 <Integer> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Integer"^^xsd:string ;
     acad:topicName "Integer"^^xsd:string .
 
 <Intelligent_agent> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Intelligent_agent"^^xsd:string ;
     acad:topicName "Intelligent_agent"^^xsd:string .
 
 <Interaction> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Interaction"^^xsd:string ;
     acad:topicName "Interaction"^^xsd:string .
 
 <International_Organization_for_Standardization> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/International_Organization_for_Standardization"^^xsd:string ;
     acad:topicName "International_Organization_for_Standardization"^^xsd:string .
 
 <International_Standard_Book_Number> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/International_Standard_Book_Number"^^xsd:string ;
     acad:topicName "International_Standard_Book_Number"^^xsd:string .
 
 <Internationalized_Resource_Identifier> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Internationalized_Resource_Identifier"^^xsd:string ;
     acad:topicName "Internationalized_Resource_Identifier"^^xsd:string .
 
 <Internet_Explorer> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Internet_Explorer"^^xsd:string ;
     acad:topicName "Internet_Explorer"^^xsd:string .
 
 <Interoperability> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Interoperability"^^xsd:string ;
     acad:topicName "Interoperability"^^xsd:string .
 
 <Ion> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Ion"^^xsd:string ;
     acad:topicName "Ion"^^xsd:string .
 
 <JSON> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/JSON"^^xsd:string ;
     acad:topicName "JSON"^^xsd:string .
 
 <JSON-LD> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/JSON-LD"^^xsd:string ;
     acad:topicName "JSON-LD"^^xsd:string .
 
 <James_Watson> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/James_Watson"^^xsd:string ;
     acad:topicName "James_Watson"^^xsd:string .
 
 <Jane_Beale> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Jane_Beale"^^xsd:string ;
     acad:topicName "Jane_Beale"^^xsd:string .
 
 <Jane_Fonda> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Jane_Fonda"^^xsd:string ;
     acad:topicName "Jane_Fonda"^^xsd:string .
 
 <Java_(software_platform)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Java_(software_platform)"^^xsd:string ;
     acad:topicName "Java_(software_platform)"^^xsd:string .
 
 <Java_Platform,_Standard_Edition> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Java_Platform,_Standard_Edition"^^xsd:string ;
     acad:topicName "Java_Platform,_Standard_Edition"^^xsd:string .
 
 <Java_package> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Java_package"^^xsd:string ;
     acad:topicName "Java_package"^^xsd:string .
 
 <Jeopardy!> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Jeopardy!"^^xsd:string ;
     acad:topicName "Jeopardy!"^^xsd:string .
 
 <John_Lennon> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/John_Lennon"^^xsd:string ;
     acad:topicName "John_Lennon"^^xsd:string .
 
 <Joseph_Weizenbaum> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Joseph_Weizenbaum"^^xsd:string ;
     acad:topicName "Joseph_Weizenbaum"^^xsd:string .
 
 <Kaiser_Permanente> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Kaiser_Permanente"^^xsd:string ;
     acad:topicName "Kaiser_Permanente"^^xsd:string .
 
 <Kilobyte> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Kilobyte"^^xsd:string ;
     acad:topicName "Kilobyte"^^xsd:string .
 
 <Knowledge_Graph> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Knowledge_Graph"^^xsd:string ;
     acad:topicName "Knowledge_Graph"^^xsd:string .
 
 <Knowledge_base> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Knowledge_base"^^xsd:string ;
     acad:topicName "Knowledge_base"^^xsd:string .
 
 <Knowledge_representation_and_reasoning> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Knowledge_representation_and_reasoning"^^xsd:string ;
     acad:topicName "Knowledge_representation_and_reasoning"^^xsd:string .
 
 <Knowledge_worker> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Knowledge_worker"^^xsd:string ;
     acad:topicName "Knowledge_worker"^^xsd:string .
 
 <Kolkata> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Kolkata"^^xsd:string ;
     acad:topicName "Kolkata"^^xsd:string .
 
 <La_Paz> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/La_Paz"^^xsd:string ;
     acad:topicName "La_Paz"^^xsd:string .
 
 <Laptop> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Laptop"^^xsd:string ;
     acad:topicName "Laptop"^^xsd:string .
 
 <Late_binding> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Late_binding"^^xsd:string ;
     acad:topicName "Late_binding"^^xsd:string .
 
 <Layer_cake> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Layer_cake"^^xsd:string ;
     acad:topicName "Layer_cake"^^xsd:string .
 
 <Le_Palais> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Le_Palais"^^xsd:string ;
     acad:topicName "Le_Palais"^^xsd:string .
 
 <Leonardo_da_Vinci> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Leonardo_da_Vinci"^^xsd:string ;
     acad:topicName "Leonardo_da_Vinci"^^xsd:string .
 
 <Level_of_detail> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Level_of_detail"^^xsd:string ;
     acad:topicName "Level_of_detail"^^xsd:string .
 
 <Leverage_(TV_series)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Leverage_(TV_series)"^^xsd:string ;
     acad:topicName "Leverage_(TV_series)"^^xsd:string .
 
 <Lexical_analysis> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Lexical_analysis"^^xsd:string ;
     acad:topicName "Lexical_analysis"^^xsd:string .
 
 <Library_of_Congress> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Library_of_Congress"^^xsd:string ;
     acad:topicName "Library_of_Congress"^^xsd:string .
 
 <Linear_algebra> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Linear_algebra"^^xsd:string ;
     acad:topicName "Linear_algebra"^^xsd:string .
 
 <LinkedIn> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/LinkedIn"^^xsd:string ;
     acad:topicName "LinkedIn"^^xsd:string .
 
 <Linked_data> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Linked_data"^^xsd:string ;
     acad:topicName "Linked_data"^^xsd:string .
 
 <Linux.conf.au> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Linux.conf.au"^^xsd:string ;
     acad:topicName "Linux.conf.au"^^xsd:string .
 
 <Lio> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Lio"^^xsd:string ;
     acad:topicName "Lio"^^xsd:string .
 
 <Lipid_polymorphism> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Lipid_polymorphism"^^xsd:string ;
     acad:topicName "Lipid_polymorphism"^^xsd:string .
 
 <Literal_(mathematical_logic)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Literal_(mathematical_logic)"^^xsd:string ;
     acad:topicName "Literal_(mathematical_logic)"^^xsd:string .
 
 <Liyang> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Liyang"^^xsd:string ;
     acad:topicName "Liyang"^^xsd:string .
 
 <Logic> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Logic"^^xsd:string ;
     acad:topicName "Logic"^^xsd:string .
 
 <Logical_conjunction> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Logical_conjunction"^^xsd:string ;
     acad:topicName "Logical_conjunction"^^xsd:string .
 
 <Logical_consequence> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Logical_consequence"^^xsd:string ;
     acad:topicName "Logical_consequence"^^xsd:string .
 
 <London> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/London"^^xsd:string ;
     acad:topicName "London"^^xsd:string .
 
 <Long_and_short_scales> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Long_and_short_scales"^^xsd:string ;
     acad:topicName "Long_and_short_scales"^^xsd:string .
 
 <MAX_Light_Rail> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/MAX_Light_Rail"^^xsd:string ;
     acad:topicName "MAX_Light_Rail"^^xsd:string .
 
 <MIT_License> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/MIT_License"^^xsd:string ;
     acad:topicName "MIT_License"^^xsd:string .
 
 <MOS_Technology_TED> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/MOS_Technology_TED"^^xsd:string ;
     acad:topicName "MOS_Technology_TED"^^xsd:string .
 
 <Machine-readable_data> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Machine-readable_data"^^xsd:string ;
     acad:topicName "Machine-readable_data"^^xsd:string .
 
 <Machine_learning> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Machine_learning"^^xsd:string ;
     acad:topicName "Machine_learning"^^xsd:string .
 
 <Main_Source> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Main_Source"^^xsd:string ;
     acad:topicName "Main_Source"^^xsd:string .
 
 <Mammal> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Mammal"^^xsd:string ;
     acad:topicName "Mammal"^^xsd:string .
 
 <Management> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Management"^^xsd:string ;
     acad:topicName "Management"^^xsd:string .
 
 <Marketing> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Marketing"^^xsd:string ;
     acad:topicName "Marketing"^^xsd:string .
 
 <Marvel_Universe> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Marvel_Universe"^^xsd:string ;
     acad:topicName "Marvel_Universe"^^xsd:string .
 
 <Master_of_Laws> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Master_of_Laws"^^xsd:string ;
     acad:topicName "Master_of_Laws"^^xsd:string .
 
 <Mature_technology> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Mature_technology"^^xsd:string ;
     acad:topicName "Mature_technology"^^xsd:string .
 
 <Max_Fleischer> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Max_Fleischer"^^xsd:string ;
     acad:topicName "Max_Fleischer"^^xsd:string .
 
 <McCarthyism> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/McCarthyism"^^xsd:string ;
     acad:topicName "McCarthyism"^^xsd:string .
 
 <McGill_University> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/McGill_University"^^xsd:string ;
     acad:topicName "McGill_University"^^xsd:string .
 
 <McLaren_P1> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/McLaren_P1"^^xsd:string ;
     acad:topicName "McLaren_P1"^^xsd:string .
 
 <Memphis_Bleek> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Memphis_Bleek"^^xsd:string ;
     acad:topicName "Memphis_Bleek"^^xsd:string .
 
 <Metadata> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Metadata"^^xsd:string ;
     acad:topicName "Metadata"^^xsd:string .
 
 <Metafiction> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Metafiction"^^xsd:string ;
     acad:topicName "Metafiction"^^xsd:string .
 
 <Method_(computer_programming)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Method_(computer_programming)"^^xsd:string ;
     acad:topicName "Method_(computer_programming)"^^xsd:string .
 
 <Microsoft> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Microsoft"^^xsd:string ;
     acad:topicName "Microsoft"^^xsd:string .
 
 <Miroirs> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Miroirs"^^xsd:string ;
     acad:topicName "Miroirs"^^xsd:string .
 
 <Mohammad-Taqi_Bahar> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Mohammad-Taqi_Bahar"^^xsd:string ;
     acad:topicName "Mohammad-Taqi_Bahar"^^xsd:string .
 
 <Mona_Lisa> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Mona_Lisa"^^xsd:string ;
     acad:topicName "Mona_Lisa"^^xsd:string .
 
 <Monty_Python> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Monty_Python"^^xsd:string ;
     acad:topicName "Monty_Python"^^xsd:string .
 
 <Moodle> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Moodle"^^xsd:string ;
     acad:topicName "Moodle"^^xsd:string .
 
 <Morgan_Motor_Company> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Morgan_Motor_Company"^^xsd:string ;
     acad:topicName "Morgan_Motor_Company"^^xsd:string .
 
 <Morning_Joe_First_Look> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Morning_Joe_First_Look"^^xsd:string ;
     acad:topicName "Morning_Joe_First_Look"^^xsd:string .
 
 <Mother> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Mother"^^xsd:string ;
     acad:topicName "Mother"^^xsd:string .
 
 <Motivation> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Motivation"^^xsd:string ;
     acad:topicName "Motivation"^^xsd:string .
 
 <Mutator_method> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Mutator_method"^^xsd:string ;
     acad:topicName "Mutator_method"^^xsd:string .
 
 <Mystery_fiction> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Mystery_fiction"^^xsd:string ;
     acad:topicName "Mystery_fiction"^^xsd:string .
 
 <N-Triples> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/N-Triples"^^xsd:string ;
     acad:topicName "N-Triples"^^xsd:string .
 
 <Nagisa_Oshima> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Nagisa_Oshima"^^xsd:string ;
     acad:topicName "Nagisa_Oshima"^^xsd:string .
 
 <Name_binding> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Name_binding"^^xsd:string ;
     acad:topicName "Name_binding"^^xsd:string .
 
 <Named-entity_recognition> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Named-entity_recognition"^^xsd:string ;
     acad:topicName "Named-entity_recognition"^^xsd:string .
 
 <National_Union_of_Mineworkers_(Great_Britain)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/National_Union_of_Mineworkers_(Great_Britain)"^^xsd:string ;
     acad:topicName "National_Union_of_Mineworkers_(Great_Britain)"^^xsd:string .
 
 <National_security> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/National_security"^^xsd:string ;
     acad:topicName "National_security"^^xsd:string .
 
 <Natural-language_understanding> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Natural-language_understanding"^^xsd:string ;
     acad:topicName "Natural-language_understanding"^^xsd:string .
 
 <Natural_language> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Natural_language"^^xsd:string ;
     acad:topicName "Natural_language"^^xsd:string .
 
 <Natural_language_processing> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Natural_language_processing"^^xsd:string ;
     acad:topicName "Natural_language_processing"^^xsd:string .
 
 <Neo4j> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Neo4j"^^xsd:string ;
     acad:topicName "Neo4j"^^xsd:string .
 
 <Network_Knowledge> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Network_Knowledge"^^xsd:string ;
     acad:topicName "Network_Knowledge"^^xsd:string .
 
 <Network_socket> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Network_socket"^^xsd:string ;
     acad:topicName "Network_socket"^^xsd:string .
 
 <Neuroscience> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Neuroscience"^^xsd:string ;
     acad:topicName "Neuroscience"^^xsd:string .
 
 <News> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/News"^^xsd:string ;
     acad:topicName "News"^^xsd:string .
 
 <Nissan_A_engine> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Nissan_A_engine"^^xsd:string ;
     acad:topicName "Nissan_A_engine"^^xsd:string .
 
 <Nissan_Almera> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Nissan_Almera"^^xsd:string ;
     acad:topicName "Nissan_Almera"^^xsd:string .
 
 <No_worries> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/No_worries"^^xsd:string ;
     acad:topicName "No_worries"^^xsd:string .
 
 <Nonprofit_organization> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Nonprofit_organization"^^xsd:string ;
     acad:topicName "Nonprofit_organization"^^xsd:string .
 
 <Notation3> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Notation3"^^xsd:string ;
     acad:topicName "Notation3"^^xsd:string .
 
 <Nutrition> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Nutrition"^^xsd:string ;
     acad:topicName "Nutrition"^^xsd:string .
 
 <Object-oriented_programming> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Object-oriented_programming"^^xsd:string ;
     acad:topicName "Object-oriented_programming"^^xsd:string .
 
 <Object_copying> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Object_copying"^^xsd:string ;
     acad:topicName "Object_copying"^^xsd:string .
 
 <Ontology> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Ontology"^^xsd:string ;
     acad:topicName "Ontology"^^xsd:string .
 
 <Ontology_(information_science)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Ontology_(information_science)"^^xsd:string ;
     acad:topicName "Ontology_(information_science)"^^xsd:string .
 
 <Ontology_components> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Ontology_components"^^xsd:string ;
     acad:topicName "Ontology_components"^^xsd:string .
 
 <Open-source_software> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Open-source_software"^^xsd:string ;
     acad:topicName "Open-source_software"^^xsd:string .
 
 <OpenAI> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/OpenAI"^^xsd:string ;
     acad:topicName "OpenAI"^^xsd:string .
 
 <Open_Mind_Common_Sense> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Open_Mind_Common_Sense"^^xsd:string ;
     acad:topicName "Open_Mind_Common_Sense"^^xsd:string .
 
 <Open_access> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Open_access"^^xsd:string ;
     acad:topicName "Open_access"^^xsd:string .
 
 <Open_data> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Open_data"^^xsd:string ;
     acad:topicName "Open_data"^^xsd:string .
 
 <Open_standard> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Open_standard"^^xsd:string ;
     acad:topicName "Open_standard"^^xsd:string .
 
 <Operation_Brevity> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Operation_Brevity"^^xsd:string ;
     acad:topicName "Operation_Brevity"^^xsd:string .
 
 <Originality> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Originality"^^xsd:string ;
     acad:topicName "Originality"^^xsd:string .
 
 <Outfielder> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Outfielder"^^xsd:string ;
     acad:topicName "Outfielder"^^xsd:string .
 
 <Ovid> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Ovid"^^xsd:string ;
     acad:topicName "Ovid"^^xsd:string .
 
 <PDF> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/PDF"^^xsd:string ;
     acad:topicName "PDF"^^xsd:string .
 
 <PHP> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/PHP"^^xsd:string ;
     acad:topicName "PHP"^^xsd:string .
 
 <POWER7> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/POWER7"^^xsd:string ;
     acad:topicName "POWER7"^^xsd:string .
 
 <Parallel_computing> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Parallel_computing"^^xsd:string ;
     acad:topicName "Parallel_computing"^^xsd:string .
 
 <Paramara_dynasty> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Paramara_dynasty"^^xsd:string ;
     acad:topicName "Paramara_dynasty"^^xsd:string .
 
 <Parametric_polymorphism> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Parametric_polymorphism"^^xsd:string ;
     acad:topicName "Parametric_polymorphism"^^xsd:string .
 
 <Pearson_Education> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Pearson_Education"^^xsd:string ;
     acad:topicName "Pearson_Education"^^xsd:string .
 
 <Pearson_correlation_coefficient> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Pearson_correlation_coefficient"^^xsd:string ;
     acad:topicName "Pearson_correlation_coefficient"^^xsd:string .
 
 <Perceptron> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Perceptron"^^xsd:string ;
     acad:topicName "Perceptron"^^xsd:string .
 
 <Performance_indicator> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Performance_indicator"^^xsd:string ;
     acad:topicName "Performance_indicator"^^xsd:string .
 
 <Permissive_software_license> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Permissive_software_license"^^xsd:string ;
     acad:topicName "Permissive_software_license"^^xsd:string .
 
 <Personalization> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Personalization"^^xsd:string ;
     acad:topicName "Personalization"^^xsd:string .
 
 <Petroleum> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Petroleum"^^xsd:string ;
     acad:topicName "Petroleum"^^xsd:string .
 
 <Phishing> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Phishing"^^xsd:string ;
     acad:topicName "Phishing"^^xsd:string .
 
 <Pitfall!> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Pitfall!"^^xsd:string ;
     acad:topicName "Pitfall!"^^xsd:string .
 
 <Poems_by_Edgar_Allan_Poe> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Poems_by_Edgar_Allan_Poe"^^xsd:string ;
     acad:topicName "Poems_by_Edgar_Allan_Poe"^^xsd:string .
 
 <Pokémon> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Pokémon"^^xsd:string ;
     acad:topicName "Pokémon"^^xsd:string .
 
 <Prefix> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Prefix"^^xsd:string ;
     acad:topicName "Prefix"^^xsd:string .
 
 <Prime_Video> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Prime_Video"^^xsd:string ;
     acad:topicName "Prime_Video"^^xsd:string .
 
 <Probability> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Probability"^^xsd:string ;
     acad:topicName "Probability"^^xsd:string .
 
 <Problem_solving> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Problem_solving"^^xsd:string ;
     acad:topicName "Problem_solving"^^xsd:string .
 
 <Propaganda_Due> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Propaganda_Due"^^xsd:string ;
     acad:topicName "Propaganda_Due"^^xsd:string .
 
 <Proprietary_software> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Proprietary_software"^^xsd:string ;
     acad:topicName "Proprietary_software"^^xsd:string .
 
 <Provenance> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Provenance"^^xsd:string ;
     acad:topicName "Provenance"^^xsd:string .
 
 <Pseudocode> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Pseudocode"^^xsd:string ;
     acad:topicName "Pseudocode"^^xsd:string .
 
 <Psychotherapy> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Psychotherapy"^^xsd:string ;
     acad:topicName "Psychotherapy"^^xsd:string .
 
 <Public_Knowledge> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Public_Knowledge"^^xsd:string ;
     acad:topicName "Public_Knowledge"^^xsd:string .
 
 <Public_company> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Public_company"^^xsd:string ;
     acad:topicName "Public_company"^^xsd:string .
 
 <PyTorch> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/PyTorch"^^xsd:string ;
     acad:topicName "PyTorch"^^xsd:string .
 
 <Quality_assurance> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Quality_assurance"^^xsd:string ;
     acad:topicName "Quality_assurance"^^xsd:string .
 
 <Query_language> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Query_language"^^xsd:string ;
     acad:topicName "Query_language"^^xsd:string .
 
 <Question_answering> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Question_answering"^^xsd:string ;
     acad:topicName "Question_answering"^^xsd:string .
 
 <RAG_AG> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/RAG_AG"^^xsd:string ;
     acad:topicName "RAG_AG"^^xsd:string .
 
 <RDF_Schema> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/RDF_Schema"^^xsd:string ;
     acad:topicName "RDF_Schema"^^xsd:string .
 
 <RDFa> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/RDFa"^^xsd:string ;
     acad:topicName "RDFa"^^xsd:string .
 
 <README> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/README"^^xsd:string ;
     acad:topicName "README"^^xsd:string .
 
 <Radius> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Radius"^^xsd:string ;
     acad:topicName "Radius"^^xsd:string .
 
 <Reading> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Reading"^^xsd:string ;
     acad:topicName "Reading"^^xsd:string .
 
 <Recommender_system> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Recommender_system"^^xsd:string ;
     acad:topicName "Recommender_system"^^xsd:string .
 
 <Reconnaissance,_surveillance,_and_target_acquisition_(United_States)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Reconnaissance,_surveillance,_and_target_acquisition_(United_States)"^^xsd:string ;
     acad:topicName "Reconnaissance,_surveillance,_and_target_acquisition_(United_States)"^^xsd:string .
 
 <Rectangle> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Rectangle"^^xsd:string ;
     acad:topicName "Rectangle"^^xsd:string .
 
 <Recursion> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Recursion"^^xsd:string ;
     acad:topicName "Recursion"^^xsd:string .
 
 <Refinitiv> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Refinitiv"^^xsd:string ;
     acad:topicName "Refinitiv"^^xsd:string .
 
 <Reign_(TV_series)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Reign_(TV_series)"^^xsd:string ;
     acad:topicName "Reign_(TV_series)"^^xsd:string .
 
 <Relational_database> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Relational_database"^^xsd:string ;
     acad:topicName "Relational_database"^^xsd:string .
 
 <Religion> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Religion"^^xsd:string ;
     acad:topicName "Religion"^^xsd:string .
 
 <Remote_procedure_call> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Remote_procedure_call"^^xsd:string ;
     acad:topicName "Remote_procedure_call"^^xsd:string .
 
 <Reserved_word> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Reserved_word"^^xsd:string ;
     acad:topicName "Reserved_word"^^xsd:string .
 
 <Resource_Description_Framework> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Resource_Description_Framework"^^xsd:string ;
     acad:topicName "Resource_Description_Framework"^^xsd:string .
 
 <Reverse-Flash> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Reverse-Flash"^^xsd:string ;
     acad:topicName "Reverse-Flash"^^xsd:string .
 
 <Risk_management> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Risk_management"^^xsd:string ;
     acad:topicName "Risk_management"^^xsd:string .
 
 <Robot> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Robot"^^xsd:string ;
     acad:topicName "Robot"^^xsd:string .
 
 <Rock_music> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Rock_music"^^xsd:string ;
     acad:topicName "Rock_music"^^xsd:string .
 
 <Rotary_International> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Rotary_International"^^xsd:string ;
     acad:topicName "Rotary_International"^^xsd:string .
 
 <Ruff> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Ruff"^^xsd:string ;
     acad:topicName "Ruff"^^xsd:string .
 
 <Runtime_(program_lifecycle_phase)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Runtime_(program_lifecycle_phase)"^^xsd:string ;
     acad:topicName "Runtime_(program_lifecycle_phase)"^^xsd:string .
 
 <Runtime_system> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Runtime_system"^^xsd:string ;
     acad:topicName "Runtime_system"^^xsd:string .
 
 <SHRDLU> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/SHRDLU"^^xsd:string ;
     acad:topicName "SHRDLU"^^xsd:string .
 
 <SPARQL> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/SPARQL"^^xsd:string ;
     acad:topicName "SPARQL"^^xsd:string .
 
 <SQL> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/SQL"^^xsd:string ;
     acad:topicName "SQL"^^xsd:string .
 
 <Saab_9-3> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Saab_9-3"^^xsd:string ;
     acad:topicName "Saab_9-3"^^xsd:string .
 
 <Saab_9-5> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Saab_9-5"^^xsd:string ;
     acad:topicName "Saab_9-5"^^xsd:string .
 
 <Sale_Sharks> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Sale_Sharks"^^xsd:string ;
     acad:topicName "Sale_Sharks"^^xsd:string .
 
 <Sameer_(lyricist)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Sameer_(lyricist)"^^xsd:string ;
     acad:topicName "Sameer_(lyricist)"^^xsd:string .
 
 <Satori> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Satori"^^xsd:string ;
     acad:topicName "Satori"^^xsd:string .
 
 <Schedule> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Schedule"^^xsd:string ;
     acad:topicName "Schedule"^^xsd:string .
 
 <Schema.org> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Schema.org"^^xsd:string ;
     acad:topicName "Schema.org"^^xsd:string .
 
 <Schizophrenia> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Schizophrenia"^^xsd:string ;
     acad:topicName "Schizophrenia"^^xsd:string .
 
 <Scikit-learn> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Scikit-learn"^^xsd:string ;
     acad:topicName "Scikit-learn"^^xsd:string .
 
 <Second_Taiwan_Strait_Crisis> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Second_Taiwan_Strait_Crisis"^^xsd:string ;
     acad:topicName "Second_Taiwan_Strait_Crisis"^^xsd:string .
 
 <Semantic_Web> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Semantic_Web"^^xsd:string ;
     acad:topicName "Semantic_Web"^^xsd:string .
 
 <Semantic_network> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Semantic_network"^^xsd:string ;
     acad:topicName "Semantic_network"^^xsd:string .
 
 <Semantic_triple> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Semantic_triple"^^xsd:string ;
     acad:topicName "Semantic_triple"^^xsd:string .
 
 <Semantics> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Semantics"^^xsd:string ;
     acad:topicName "Semantics"^^xsd:string .
 
 <Semicolon> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Semicolon"^^xsd:string ;
     acad:topicName "Semicolon"^^xsd:string .
 
 <Semiconductor_device_fabrication> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Semiconductor_device_fabrication"^^xsd:string ;
     acad:topicName "Semiconductor_device_fabrication"^^xsd:string .
 
 <Sentiment_analysis> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Sentiment_analysis"^^xsd:string ;
     acad:topicName "Sentiment_analysis"^^xsd:string .
 
 <September_11_attacks> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/September_11_attacks"^^xsd:string ;
     acad:topicName "September_11_attacks"^^xsd:string .
 
 <Serialization> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Serialization"^^xsd:string ;
     acad:topicName "Serialization"^^xsd:string .
 
 <Shareware> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Shareware"^^xsd:string ;
     acad:topicName "Shareware"^^xsd:string .
 
 <Sheffield> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Sheffield"^^xsd:string ;
     acad:topicName "Sheffield"^^xsd:string .
 
 <Silver> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Silver"^^xsd:string ;
     acad:topicName "Silver"^^xsd:string .
 
 <Simple_Knowledge_Organization_System> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Simple_Knowledge_Organization_System"^^xsd:string ;
     acad:topicName "Simple_Knowledge_Organization_System"^^xsd:string .
 
 <Simulation> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Simulation"^^xsd:string ;
     acad:topicName "Simulation"^^xsd:string .
 
 <Singh> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Singh"^^xsd:string ;
     acad:topicName "Singh"^^xsd:string .
 
 <Single_sign-on> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Single_sign-on"^^xsd:string ;
     acad:topicName "Single_sign-on"^^xsd:string .
 
 <Siri> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Siri"^^xsd:string ;
     acad:topicName "Siri"^^xsd:string .
 
 <Skolem_normal_form> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Skolem_normal_form"^^xsd:string ;
     acad:topicName "Skolem_normal_form"^^xsd:string .
 
 <Slavery> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Slavery"^^xsd:string ;
     acad:topicName "Slavery"^^xsd:string .
 
 <Sleep> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Sleep"^^xsd:string ;
     acad:topicName "Sleep"^^xsd:string .
 
 <Snippet_(programming)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Snippet_(programming)"^^xsd:string ;
     acad:topicName "Snippet_(programming)"^^xsd:string .
 
 <Snow> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Snow"^^xsd:string ;
     acad:topicName "Snow"^^xsd:string .
 
 <Social_media> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Social_media"^^xsd:string ;
     acad:topicName "Social_media"^^xsd:string .
 
 <Social_network> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Social_network"^^xsd:string ;
     acad:topicName "Social_network"^^xsd:string .
 
 <Soen> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Soen"^^xsd:string ;
     acad:topicName "Soen"^^xsd:string .
 
 <Software> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Software"^^xsd:string ;
     acad:topicName "Software"^^xsd:string .
 
 <Software_agent> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Software_agent"^^xsd:string ;
     acad:topicName "Software_agent"^^xsd:string .
 
 <Software_architecture> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Software_architecture"^^xsd:string ;
     acad:topicName "Software_architecture"^^xsd:string .
 
 <Software_as_a_service> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Software_as_a_service"^^xsd:string ;
     acad:topicName "Software_as_a_service"^^xsd:string .
 
 <Software_license> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Software_license"^^xsd:string ;
     acad:topicName "Software_license"^^xsd:string .
 
 <Source_code> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Source_code"^^xsd:string ;
     acad:topicName "Source_code"^^xsd:string .
 
 <South_Korea> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/South_Korea"^^xsd:string ;
     acad:topicName "South_Korea"^^xsd:string .
 
 <Stanford_University> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Stanford_University"^^xsd:string ;
     acad:topicName "Stanford_University"^^xsd:string .
 
 <Stephanie_Brown_(character)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Stephanie_Brown_(character)"^^xsd:string ;
     acad:topicName "Stephanie_Brown_(character)"^^xsd:string .
 
 <Steve_Jobs> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Steve_Jobs"^^xsd:string ;
     acad:topicName "Steve_Jobs"^^xsd:string .
 
 <Straitjacket_Fits> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Straitjacket_Fits"^^xsd:string ;
     acad:topicName "Straitjacket_Fits"^^xsd:string .
 
 <Streaming_media> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Streaming_media"^^xsd:string ;
     acad:topicName "Streaming_media"^^xsd:string .
 
 <String_instrument> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/String_instrument"^^xsd:string ;
     acad:topicName "String_instrument"^^xsd:string .
 
 <String_literal> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/String_literal"^^xsd:string ;
     acad:topicName "String_literal"^^xsd:string .
 
 <String_theory> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/String_theory"^^xsd:string ;
     acad:topicName "String_theory"^^xsd:string .
 
 <Subroutine> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Subroutine"^^xsd:string ;
     acad:topicName "Subroutine"^^xsd:string .
 
 <Subset> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Subset"^^xsd:string ;
     acad:topicName "Subset"^^xsd:string .
 
 <Substring> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Substring"^^xsd:string ;
     acad:topicName "Substring"^^xsd:string .
 
 <Superuser> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Superuser"^^xsd:string ;
     acad:topicName "Superuser"^^xsd:string .
 
 <Synergy> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Synergy"^^xsd:string ;
     acad:topicName "Synergy"^^xsd:string .
 
 <Syntax> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Syntax"^^xsd:string ;
     acad:topicName "Syntax"^^xsd:string .
 
 <TEAM_Unity_(Philippines)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/TEAM_Unity_(Philippines)"^^xsd:string ;
     acad:topicName "TEAM_Unity_(Philippines)"^^xsd:string .
 
 <Tailor> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Tailor"^^xsd:string ;
     acad:topicName "Tailor"^^xsd:string .
 
 <Tandem> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Tandem"^^xsd:string ;
     acad:topicName "Tandem"^^xsd:string .
 
 <Taylorcraft_Auster> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Taylorcraft_Auster"^^xsd:string ;
     acad:topicName "Taylorcraft_Auster"^^xsd:string .
 
 <Tbox> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Tbox"^^xsd:string ;
     acad:topicName "Tbox"^^xsd:string .
 
 <Team_Dynamics> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Team_Dynamics"^^xsd:string ;
     acad:topicName "Team_Dynamics"^^xsd:string .
 
 <Terabyte> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Terabyte"^^xsd:string ;
     acad:topicName "Terabyte"^^xsd:string .
 
 <Terry_Winograd> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Terry_Winograd"^^xsd:string ;
     acad:topicName "Terry_Winograd"^^xsd:string .
 
 <Text_file> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Text_file"^^xsd:string ;
     acad:topicName "Text_file"^^xsd:string .
 
 <Text_mining> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Text_mining"^^xsd:string ;
     acad:topicName "Text_mining"^^xsd:string .
 
 <Textbook> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Textbook"^^xsd:string ;
     acad:topicName "Textbook"^^xsd:string .
 
 <Textus_Receptus> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Textus_Receptus"^^xsd:string ;
     acad:topicName "Textus_Receptus"^^xsd:string .
 
 <Thai_baht> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Thai_baht"^^xsd:string ;
     acad:topicName "Thai_baht"^^xsd:string .
 
 <TheBus_(Prince_George's_County)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/TheBus_(Prince_George's_County)"^^xsd:string ;
     acad:topicName "TheBus_(Prince_George's_County)"^^xsd:string .
 
 <The_Business_(band)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/The_Business_(band)"^^xsd:string ;
     acad:topicName "The_Business_(band)"^^xsd:string .
 
 <The_Goal_(novel)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/The_Goal_(novel)"^^xsd:string ;
     acad:topicName "The_Goal_(novel)"^^xsd:string .
 
 <The_Members> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/The_Members"^^xsd:string ;
     acad:topicName "The_Members"^^xsd:string .
 
 <The_Next_Web> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/The_Next_Web"^^xsd:string ;
     acad:topicName "The_Next_Web"^^xsd:string .
 
 <The_Returned_(French_TV_series)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/The_Returned_(French_TV_series)"^^xsd:string ;
     acad:topicName "The_Returned_(French_TV_series)"^^xsd:string .
 
 <The_Scientist_(magazine)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/The_Scientist_(magazine)"^^xsd:string ;
     acad:topicName "The_Scientist_(magazine)"^^xsd:string .
 
 <Thesaurus> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Thesaurus"^^xsd:string ;
     acad:topicName "Thesaurus"^^xsd:string .
 
 <Titer> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Titer"^^xsd:string ;
     acad:topicName "Titer"^^xsd:string .
 
 <To_be_announced> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/To_be_announced"^^xsd:string ;
     acad:topicName "To_be_announced"^^xsd:string .
 
 <Training,_validation,_and_test_sets> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Training,_validation,_and_test_sets"^^xsd:string ;
     acad:topicName "Training,_validation,_and_test_sets"^^xsd:string .
 
 <Transformer> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Transformer"^^xsd:string ;
     acad:topicName "Transformer"^^xsd:string .
 
 <Transitive_relation> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Transitive_relation"^^xsd:string ;
     acad:topicName "Transitive_relation"^^xsd:string .
 
 <Tree_structure> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Tree_structure"^^xsd:string ;
     acad:topicName "Tree_structure"^^xsd:string .
 
 <Triplestore> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Triplestore"^^xsd:string ;
     acad:topicName "Triplestore"^^xsd:string .
 
 <Turing_test> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Turing_test"^^xsd:string ;
     acad:topicName "Turing_test"^^xsd:string .
 
 <Turkey> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Turkey"^^xsd:string ;
     acad:topicName "Turkey"^^xsd:string .
 
 <UIMA> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/UIMA"^^xsd:string ;
     acad:topicName "UIMA"^^xsd:string .
 
 <URL> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/URL"^^xsd:string ;
     acad:topicName "URL"^^xsd:string .
 
 <USB> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/USB"^^xsd:string ;
     acad:topicName "USB"^^xsd:string .
 
 <Ub,_Serbia> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Ub,_Serbia"^^xsd:string ;
     acad:topicName "Ub,_Serbia"^^xsd:string .
 
 <Ultimate_Marvel> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Ultimate_Marvel"^^xsd:string ;
     acad:topicName "Ultimate_Marvel"^^xsd:string .
 
 <Uncertainty> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Uncertainty"^^xsd:string ;
     acad:topicName "Uncertainty"^^xsd:string .
 
 <Unicode> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Unicode"^^xsd:string ;
     acad:topicName "Unicode"^^xsd:string .
 
 <Unicorn> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Unicorn"^^xsd:string ;
     acad:topicName "Unicorn"^^xsd:string .
 
 <Uniform_Resource_Identifier> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Uniform_Resource_Identifier"^^xsd:string ;
     acad:topicName "Uniform_Resource_Identifier"^^xsd:string .
 
 <Uniform_Resource_Name> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Uniform_Resource_Name"^^xsd:string ;
     acad:topicName "Uniform_Resource_Name"^^xsd:string .
 
 <United_States> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/United_States"^^xsd:string ;
     acad:topicName "United_States"^^xsd:string .
 
 <United_States_Congress> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/United_States_Congress"^^xsd:string ;
     acad:topicName "United_States_Congress"^^xsd:string .
 
 <United_States_dollar> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/United_States_dollar"^^xsd:string ;
     acad:topicName "United_States_dollar"^^xsd:string .
 
 <Universe> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Universe"^^xsd:string ;
     acad:topicName "Universe"^^xsd:string .
 
 <Unravel> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Unravel"^^xsd:string ;
     acad:topicName "Unravel"^^xsd:string .
 
 <Urn> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Urn"^^xsd:string ;
     acad:topicName "Urn"^^xsd:string .
 
 <VVV-Venlo> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/VVV-Venlo"^^xsd:string ;
     acad:topicName "VVV-Venlo"^^xsd:string .
 
 <Version_control> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Version_control"^^xsd:string ;
     acad:topicName "Version_control"^^xsd:string .
 
 <Virtual_machine> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Virtual_machine"^^xsd:string ;
     acad:topicName "Virtual_machine"^^xsd:string .
 
 <Volkswagen_Group_B_platform> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Volkswagen_Group_B_platform"^^xsd:string ;
     acad:topicName "Volkswagen_Group_B_platform"^^xsd:string .
 
 <Warren_Sturgis_McCulloch> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Warren_Sturgis_McCulloch"^^xsd:string ;
     acad:topicName "Warren_Sturgis_McCulloch"^^xsd:string .
 
 <Web_2.0> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Web_2.0"^^xsd:string ;
     acad:topicName "Web_2.0"^^xsd:string .
 
 <Web_Ontology_Language> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Web_Ontology_Language"^^xsd:string ;
     acad:topicName "Web_Ontology_Language"^^xsd:string .
 
 <Web_browser> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Web_browser"^^xsd:string ;
     acad:topicName "Web_browser"^^xsd:string .
 
 <Web_server> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Web_server"^^xsd:string ;
     acad:topicName "Web_server"^^xsd:string .
 
 <Well> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Well"^^xsd:string ;
     acad:topicName "Well"^^xsd:string .
 
 <Wikidata> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Wikidata"^^xsd:string ;
     acad:topicName "Wikidata"^^xsd:string .
 
 <Wikipedia> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Wikipedia"^^xsd:string ;
     acad:topicName "Wikipedia"^^xsd:string .
 
 <World_War_II> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/World_War_II"^^xsd:string ;
     acad:topicName "World_War_II"^^xsd:string .
 
 <World_Wide_Web> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/World_Wide_Web"^^xsd:string ;
     acad:topicName "World_Wide_Web"^^xsd:string .
 
 <World_Wide_Web_Consortium> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/World_Wide_Web_Consortium"^^xsd:string ;
     acad:topicName "World_Wide_Web_Consortium"^^xsd:string .
 
 <X86> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/X86"^^xsd:string ;
     acad:topicName "X86"^^xsd:string .
 
 <XML> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/XML"^^xsd:string ;
     acad:topicName "XML"^^xsd:string .
 
 <Yandex> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Yandex"^^xsd:string ;
     acad:topicName "Yandex"^^xsd:string .
 
 <YouTube> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/YouTube"^^xsd:string ;
     acad:topicName "YouTube"^^xsd:string .
 
 <Zion> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Zion"^^xsd:string ;
     acad:topicName "Zion"^^xsd:string .
 
 <Zip_(file_format)> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Zip_(file_format)"^^xsd:string ;
     acad:topicName "Zip_(file_format)"^^xsd:string .
 
 <Zo_people> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Zo_people"^^xsd:string ;
     acad:topicName "Zo_people"^^xsd:string .
 
@@ -2782,57 +2782,6 @@ ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%
 ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_3%5CSlides%5CChapter_3.pdf a acad:Slides .
 
 ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_3%5CWorksheets%5Cworksheet2_quest.pdf a acad:Worksheet .
-
-acaddata:COMP6481_PPS_Lecture1 a acad:Lecture ;
-    acad:hasContent ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_1%5COther_Material%5Ctable.png,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_1%5CReadings%5CComposition1.java.doc,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_1%5CSlides%5CChapter1.pdf,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_1%5CWorksheets%5CInherit1.java.doc ;
-    acad:lectureLink "https://www.youtube.com/watch?v=t9WKOcRB63Q&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1"^^xsd:string ;
-    acad:lectureName "intro to pps"^^xsd:string ;
-    acad:lectureNumber "1"^^xsd:int .
-
-acaddata:COMP6481_PPS_Lecture2 a acad:Lecture ;
-    acad:hasContent ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_2%5COther_Material%5Csc.png,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_2%5CReadings%5CPolymorphism1.java.doc,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_2%5CSlides%5CChapter2.pdf,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_2%5CWorksheets%5CAbstract1.java.doc ;
-    acad:lectureLink "https://www.youtube.com/watch?v=tIWm3I_Zu7I"^^xsd:string ;
-    acad:lectureName "polymorphism"^^xsd:string ;
-    acad:lectureNumber "2"^^xsd:int .
-
-acaddata:COMP6481_PPS_Lecture3 a acad:Lecture ;
-    acad:hasContent ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_3%5COther_Material%5CTutorial_3.pdf,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_3%5CReadings%5CExceptionHandling1.java.doc,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_3%5CSlides%5CChapter3.pdf,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_3%5CWorksheets%5CExceptionHandling2.java.doc ;
-    acad:lectureName "exceptions"^^xsd:string ;
-    acad:lectureNumber "3"^^xsd:int .
-
-acaddata:COMP6741_IS_Lecture1 a acad:Lecture ;
-    acad:hasContent ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_1%5COther_Material%5CProject_Assignment1.pdf,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_1%5CReadings%5Csyllabus.pdf,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_1%5CSlides%5Cweek1.pdf ;
-    acad:lectureLink "https://www.youtube.com/watch?v=aep1v2pZ44Y"^^xsd:string ;
-    acad:lectureName "introduction"^^xsd:string ;
-    acad:lectureNumber "1"^^xsd:int .
-
-acaddata:COMP6741_IS_Lecture2 a acad:Lecture ;
-    acad:hasContent ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_2%5COther_Material%5Cgraph.png,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_2%5CReadings%5CWorksheet2.pdf,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_2%5CSlides%5CChapter_2.pdf,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_2%5CWorksheets%5CWorksheet2_quest.pdf ;
-    acad:lectureName "knowledge graphs"^^xsd:string ;
-    acad:lectureNumber "2"^^xsd:int .
-
-acaddata:COMP6741_IS_Lecture3 a acad:Lecture ;
-    acad:hasContent ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_3%5COther_Material%5Cexample_graph.jpg,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_3%5CReadings%5Cworksheet2.pdf,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_3%5CSlides%5CChapter_3.pdf,
-        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_3%5CWorksheets%5Cworksheet2_quest.pdf ;
-    acad:lectureLink "https://www.youtube.com/watch?v=yX0TDFx7Obw"^^xsd:string ;
-    acad:lectureName "vocabularies"^^xsd:string ;
-    acad:lectureNumber "3"^^xsd:int .
 
 acaddata:FAS_0173 a vivo:Course ;
     acad:courseCredits "4"^^xsd:string ;
@@ -18232,118 +18181,118 @@ acaddata:completed_course_102_GCS_300_grade_semester_1 a acad:GradeSemesterPair 
     acad:courseSemester "232.0"^^xsd:string .
 
 <Abstract_and_concrete> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Abstract_and_concrete"^^xsd:string ;
     acad:topicName "Abstract_and_concrete"^^xsd:string .
 
 <Algorithm> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3,
-        acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3,
+        acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Algorithm"^^xsd:string ;
     acad:topicName "Algorithm"^^xsd:string .
 
 <Chapter_VII_of_the_United_Nations_Charter> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Chapter_VII_of_the_United_Nations_Charter"^^xsd:string ;
     acad:topicName "Chapter_VII_of_the_United_Nations_Charter"^^xsd:string .
 
 <College_of_Osteopathic_Medicine_of_the_Pacific> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/College_of_Osteopathic_Medicine_of_the_Pacific"^^xsd:string ;
     acad:topicName "College_of_Osteopathic_Medicine_of_the_Pacific"^^xsd:string .
 
 <Compiler> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3,
-        acaddata:COMP6741_IS_Lecture_1 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3,
+        acaddata:COMP6741_IS_Lecture1 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Compiler"^^xsd:string ;
     acad:topicName "Compiler"^^xsd:string .
 
 <Computer_science> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3,
-        acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3,
+        acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Computer_science"^^xsd:string ;
     acad:topicName "Computer_science"^^xsd:string .
 
 <Identifier> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3,
-        acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3,
+        acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Identifier"^^xsd:string ;
     acad:topicName "Identifier"^^xsd:string .
 
 <Inheritance> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Inheritance"^^xsd:string ;
     acad:topicName "Inheritance"^^xsd:string .
 
 <Java_virtual_machine> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Java_virtual_machine"^^xsd:string ;
     acad:topicName "Java_virtual_machine"^^xsd:string .
 
 <Library> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_3,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture3,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Library"^^xsd:string ;
     acad:topicName "Library"^^xsd:string .
 
 <Main_Page> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3,
-        acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3,
+        acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Main_Page"^^xsd:string ;
     acad:topicName "Main_Page"^^xsd:string .
 
 <Montreal> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3,
-        acaddata:COMP6741_IS_Lecture_2 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3,
+        acaddata:COMP6741_IS_Lecture2 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Montreal"^^xsd:string ;
     acad:topicName "Montreal"^^xsd:string .
 
 <Programming_language> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Programming_language"^^xsd:string ;
     acad:topicName "Programming_language"^^xsd:string .
 
 <Ship_class> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Ship_class"^^xsd:string ;
     acad:topicName "Ship_class"^^xsd:string .
 
 <Software_engineering> a acad:Topic ;
-    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture_1,
-        acaddata:COMP6481_PPS_Lecture_2,
-        acaddata:COMP6481_PPS_Lecture_3,
-        acaddata:COMP6741_IS_Lecture_1,
-        acaddata:COMP6741_IS_Lecture_2,
-        acaddata:COMP6741_IS_Lecture_3 ;
+    acad:hasProvenanceInformation acaddata:COMP6481_PPS_Lecture1,
+        acaddata:COMP6481_PPS_Lecture2,
+        acaddata:COMP6481_PPS_Lecture3,
+        acaddata:COMP6741_IS_Lecture1,
+        acaddata:COMP6741_IS_Lecture2,
+        acaddata:COMP6741_IS_Lecture3 ;
     acad:hasTopicLink "http://dbpedia.org/resource/Software_engineering"^^xsd:string ;
     acad:topicName "Software_engineering"^^xsd:string .
 
@@ -20635,4 +20584,55 @@ acaddata:concordia a acad:University ;
     acad:universityDBpediaLink ns1:Concordia_University ;
     acad:universityName "Concordia University"^^xsd:string ;
     acad:universityWikidataLink ns2:Q326342 .
+
+acaddata:COMP6481_PPS_Lecture1 a acad:Lecture ;
+    acad:hasContent ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_1%5COther_Material%5Ctable.png,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_1%5CReadings%5CComposition1.java.doc,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_1%5CSlides%5CChapter1.pdf,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_1%5CWorksheets%5CInherit1.java.doc ;
+    acad:lectureLink "https://www.youtube.com/watch?v=t9WKOcRB63Q&list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1"^^xsd:string ;
+    acad:lectureName "intro to pps"^^xsd:string ;
+    acad:lectureNumber "1"^^xsd:int .
+
+acaddata:COMP6481_PPS_Lecture3 a acad:Lecture ;
+    acad:hasContent ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_3%5COther_Material%5CTutorial_3.pdf,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_3%5CReadings%5CExceptionHandling1.java.doc,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_3%5CSlides%5CChapter3.pdf,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_3%5CWorksheets%5CExceptionHandling2.java.doc ;
+    acad:lectureName "exceptions"^^xsd:string ;
+    acad:lectureNumber "3"^^xsd:int .
+
+acaddata:COMP6481_PPS_Lecture2 a acad:Lecture ;
+    acad:hasContent ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_2%5COther_Material%5Csc.png,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_2%5CReadings%5CPolymorphism1.java.doc,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_2%5CSlides%5CChapter2.pdf,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6481_PPS%5CLecture_2%5CWorksheets%5CAbstract1.java.doc ;
+    acad:lectureLink "https://www.youtube.com/watch?v=tIWm3I_Zu7I"^^xsd:string ;
+    acad:lectureName "polymorphism"^^xsd:string ;
+    acad:lectureNumber "2"^^xsd:int .
+
+acaddata:COMP6741_IS_Lecture3 a acad:Lecture ;
+    acad:hasContent ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_3%5COther_Material%5Cexample_graph.jpg,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_3%5CReadings%5Cworksheet2.pdf,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_3%5CSlides%5CChapter_3.pdf,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_3%5CWorksheets%5Cworksheet2_quest.pdf ;
+    acad:lectureLink "https://www.youtube.com/watch?v=yX0TDFx7Obw"^^xsd:string ;
+    acad:lectureName "vocabularies"^^xsd:string ;
+    acad:lectureNumber "3"^^xsd:int .
+
+acaddata:COMP6741_IS_Lecture2 a acad:Lecture ;
+    acad:hasContent ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_2%5COther_Material%5Cgraph.png,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_2%5CReadings%5CWorksheet2.pdf,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_2%5CSlides%5CChapter_2.pdf,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_2%5CWorksheets%5CWorksheet2_quest.pdf ;
+    acad:lectureName "knowledge graphs"^^xsd:string ;
+    acad:lectureNumber "2"^^xsd:int .
+
+acaddata:COMP6741_IS_Lecture1 a acad:Lecture ;
+    acad:hasContent ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_1%5COther_Material%5CProject_Assignment1.pdf,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_1%5CReadings%5Csyllabus.pdf,
+        ns3:C%3A%5CUsers%5CSraddha%20Bhattacharje%5CDesktop%5CWINTER%2024%5CIntelligent%20Systems%5Cproject_a2%5CCOMP6741_Roboprof%5CCourses%5CCourses%5CCOMP6741_IS%5CLecture_1%5CSlides%5Cweek1.pdf ;
+    acad:lectureLink "https://www.youtube.com/watch?v=aep1v2pZ44Y"^^xsd:string ;
+    acad:lectureName "introduction"^^xsd:string ;
+    acad:lectureNumber "1"^^xsd:int .
 
