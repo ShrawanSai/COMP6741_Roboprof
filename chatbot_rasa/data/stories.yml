@@ -1,0 +1,74 @@
+version: "3.1"
+
+stories:
+
+- story: q2_1_about_course
+  steps:
+    - intent: about_course
+    - action: action_about_course
+
+- story: q2_2_about_course_lecture_topics
+  steps:
+    - intent: about_course_lecture_topics
+    - action: action_about_course_lecture_topics
+
+- story: q2_3_about_course_topic
+  steps:
+    - intent: about_course_topic
+    - action: action_about_course_topic
+
+- story: q1_1_courses_offeredby_uni
+  steps:
+    - intent: courses_offeredby_uni
+    - action: action_courses_offeredby_uni
+
+- story: q1_3_topics_coveredby_course_in_lecturenumber
+  steps:
+    - intent: topics_coveredby_course_in_lecturenumber
+    - action: action_topics_coveredby_course_in_lecturenumber
+
+- story: q1_4_courses_offeredby_uni_within_course
+  steps:
+    - intent: courses_offeredby_uni_within_course
+    - action: action_courses_offeredby_uni_within_course
+
+- story: q1_5_materials_recommendation_for_topic_in_coursenumber
+  steps:
+    - intent: materials_recommendation_for_topic_in_coursenumber
+    - action: action_materials_recommendation_for_topic_in_coursenumber
+
+- story: q1_6_credits_for_course
+  steps:
+    - intent: credits_for_course
+    - action: action_credits_for_course
+
+- story: q1_7_additional_resources_for_course
+  steps:
+    - intent: additional_resources_for_course
+    - action: action_additional_resources_for_course
+
+- story: q1_8_content_for_course_in_lecturenumber
+  steps:
+    - intent: content_for_course_in_lecturenumber
+    - action: action_content_for_course_in_lecturenumber
+
+- story: q1_10_competencies_after_course_completion
+  steps:
+    - intent: competencies_after_course_completion
+    - action: action_competencies_after_course_completion
+
+- story: q1_11_grades_for_student_in_course
+  steps:
+  - intent: grades_for_student_in_course
+  - action: action_grades_for_student_in_course
+
+- story: q1_12_students_completed_course
+  steps:
+  - intent: students_completed_course
+  - action: action_students_completed_course
+
+- story: q1_13_transcript_for_student
+  steps:
+  - intent: transcript_for_student
+  - action: action_transcript_for_student
+

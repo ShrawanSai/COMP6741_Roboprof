@@ -1,0 +1,99 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - bot_challenge
+  - about_course
+  - about_course_lecture_topics
+  - about_course_topic
+  - courses_offeredby_uni
+  - topics_coveredby_course_in_lecturenumber
+  - courses_offeredby_uni_within_course
+  - materials_recommendation_for_topic_in_coursenumber
+  - credits_for_course
+  - additional_resources_for_course
+  - content_for_course_in_lecturenumber
+  - competencies_after_course_completion
+  - grades_for_student_in_course
+  - students_completed_course
+  - transcript_for_student
+
+
+entities:
+  - courseSubject
+  - courseNumber
+  - course
+  - lectureNumber
+  - topic
+  - university
+  - studentID
+
+actions:
+  - action_about_course
+  - action_about_course_lecture_topics
+  - action_about_course_topic
+  - action_courses_offeredby_uni
+  - action_topics_coveredby_course_in_lecturenumber
+  - action_courses_offeredby_uni_within_course
+  - action_materials_recommendation_for_topic_in_coursenumber
+  - action_credits_for_course
+  - action_additional_resources_for_course
+  - action_content_for_course_in_lecturenumber
+  - action_competencies_after_course_completion
+  - action_grades_for_student_in_course
+  - action_students_completed_course
+  - action_transcript_for_student
+
+slots:
+  courseSubject:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: courseSubject
+  courseNumber:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: courseNumber
+  course:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: course
+  university:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: university
+  lectureNumber:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: lectureNumber
+  topic:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: topic
+  studentID:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: studentID
+
+responses:
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_goodbye:
+  - text: "Bye!"
+
+  utter_iamabot:
+  - text: "I am the Roboprof Chatbot, powered by Rasa."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

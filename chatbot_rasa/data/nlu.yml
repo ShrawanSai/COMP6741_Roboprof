@@ -1,0 +1,334 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+    - are you a real person?
+    - you're a bot
+    - who are you?  
+    - are you a chatbot?
+
+- intent: about_course
+  examples: |
+    - What is course [COMP](courseSubject) [474](courseNumber) about?
+    - What is course [GDBA](courseSubject) [532](courseNumber) about?
+    - What is course [ACCO](courseSubject) [420](courseNumber) about?
+    - What is course [BIOL](courseSubject) [201](courseNumber) about?
+    - What is course [JOUR](courseSubject) [535](courseNumber) about?
+    - What is course [COMS](courseSubject) [684](courseNumber) about?
+    - What is course [DRAW](courseSubject) [200](courseNumber) about?
+    - What is course [PERC](courseSubject) [209](courseNumber) about?
+    - What is course [ECON](courseSubject) [423](courseNumber) about?
+    - What is course [FRAA](courseSubject) [409](courseNumber) about?
+    - What is course [GEOG](courseSubject) [301](courseNumber) about?
+    - What is course [HIST](courseSubject) [380](courseNumber) about?
+    - What is course [BLDG](courseSubject) [492](courseNumber) about?
+    - What is course [LOYC](courseSubject) [420](courseNumber) about?
+    - What is course [MAST](courseSubject) [232](courseNumber) about?
+    - What is course [PHYS](courseSubject) [224](courseNumber) about?
+    - What is course [RELI](courseSubject) [410](courseNumber) about?
+    - What is course [SCPA](courseSubject) [301](courseNumber) about?
+    - What is course [THEO](courseSubject) [234](courseNumber) about?
+    - What is course [URBS](courseSubject) [491](courseNumber) about?
+    - What is course [WSDB](courseSubject) [292](courseNumber) about?
+    - What is course [COMP](courseSubject) [474](courseNumber) about?
+    - What is course [ENCS](courseSubject) [474](courseNumber) about?
+    - What is course [FINA](courseSubject) [471](courseNumber) about?
+    - What is course [MAST](courseSubject) [333](courseNumber) about?
+    - What is [MECH](courseSubject) [361](courseNumber) about?
+    - What's [ENGR](courseSubject) [208](courseNumber) about?
+    - What's [INST](courseSubject) [232](courseNumber) about?
+    - What's [COMP](courseSubject) [248](courseNumber) course about?
+    - Can you tell me about course [COMP](courseSubject) [474](courseNumber)?
+    - Give me information about course [GDBA](courseSubject) [532](courseNumber).
+    - Explain what course [ACCO](courseSubject) [420](courseNumber) is about.
+    - Tell me about course [BIOL](courseSubject) [201](courseNumber).
+    - What can you tell me about course [JOUR](courseSubject) [535](courseNumber)?
+    - Describe course [COMS](courseSubject) [684](courseNumber).
+    - Provide details about course [DRAW](courseSubject) [200](courseNumber).
+    - Give me an overview of course [PERC](courseSubject) [209](courseNumber).
+    - What is [MECH](courseSubject) [361](courseNumber) all about?
+    - What's [ENGR](courseSubject) [208](courseNumber) focused on?
+    - What's [INST](courseSubject) [232](courseNumber) mainly about?
+
+
+- intent: about_course_lecture_topics
+  examples: |
+    - Which topics are covered in [COMP](courseSubject) [474](courseNumber) in [lecture number 3](lectureNumber)?
+    - What topics are covered in [COMP](courseSubject) [474](courseNumber), [lecture number 3](lectureNumber)?
+    - Which topics are covered in the course [COMP](courseSubject) [474](courseNumber) in [lecture number 3](lectureNumber)?
+    - Which topics are covered in the course [COMP](courseSubject) [474](courseNumber) in the [lecture number 3](lectureNumber)?
+    - Which topics are covered in the course [COMP](courseSubject) [474](courseNumber) in [lecture number 2](lectureNumber)?
+    - Which topics are covered in course [COMP](courseSubject) [474](courseNumber) in [lecture number 2](lectureNumber)?
+    - Which topics are covered in [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - Which topics are covered in [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - Which topics are covered in [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - Which topics are covered in [COMP](courseSubject) [474](courseNumber) [lecture number 03](lectureNumber)?
+    - Which topics are covered in course [COMP](courseSubject) [474](courseNumber) in [lecture number 2](lectureNumber)?
+    - Which topics are covered in course [COMP](courseSubject) [346](courseNumber) in [LEC-33](lectureNumber)?
+    - What are the topics discussed in [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - Can you tell me the topics covered in [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - Provide me with the topics taught in the course [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber).
+    - What will be covered in the course [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - What subjects are included in [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - What will be discussed in the course [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - Tell me the topics that will be covered in [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber).
+    - What is the curriculum of [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - What are the main topics in [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - What are the subject matters in [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - What are the lecture topics for [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - What will be taught in [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - What are the key concepts covered in [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - What are the areas of study in [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - What are the specific subjects in [COMP](courseSubject) [474](courseNumber) [lecture number 3](lectureNumber)?
+    - What are the topics emphasized in [COMP](courseSubject) [474](courseNumber) [LEC2](lectureNumber)?
+
+  
+- intent: about_course_topic
+  examples: |
+    - Which course events teach [Computer science](topic)?
+    - Which course events teach [parsing](topic)?
+    - Which course events teach [Ontology](topic)?
+    - Which course events teach [JSON](topic)?
+    - Which course events teach [Machine learning](topic)?
+    - Which course event teaches [Virtual memory](topic)?
+    - Which course event teaches [Artificial Intelligence](topic)?
+    - Which course event teaches [Operating systems](topic)?
+    - Which course event teaches [Interrupt](topic)?
+    - Which course events teach [DBpedia](topic)?
+    - What course events teach about [compiler](topic)?
+    - What course events teach [Intelligent agent](topic)?
+    - What course events teach [XML](topic)?
+    - What course events teach [Operating System](topic)?
+    - What course event teaches [knowledge graph](topic)?
+    - What course event teaches [Database](topic)?
+    - What course event teaches [Shared memory](topic)?
+    - What course event teaches [Memory management](topic)?
+    - What course event teaches [Computer science](topic)?
+    - What course event teaches [RDF Schema](topic)?
+    - What course event teaches [ELIZA](topic)?
+    - What course event teaches [Deadlock](topic)?
+    - What course event teaches [Direct memory access](topic)?
+    - Which course events cover [google](topic)?
+    - Which course event covers [Paging](topic)?
+    - Which course events cover [linux](topic)?
+    - Which course events cover [SPARQL](topic)?
+    - Which course events cover [Montreal](topic)?
+    - Which course events cover [Context switch](topic)?
+    - Which course events cover [fuseki](topic)?
+    - Which course events cover [computer science](topic)?
+    - List the course events that teach [Computer science](topic).
+    - Provide a list of course events that cover [Machine learning](topic).
+    - Can you give me the names of course events that teach [Artificial Intelligence](topic)?
+    - Show me the course events that cover [Operating systems](topic).
+    - What are the course events that teach [Database](topic)?
+    - Give me a list of course events that cover [Memory management](topic).
+    - Which course events offer [Computer science](topic)?
+    - Which course events include [Machine learning](topic)?
+    - Which course events discuss [Artificial Intelligence](topic)?
+    - What are the course events that focus on [Operating systems](topic)?
+    - Show me the course events that involve [Database](topic).
+    - Give me a list of course events that emphasize [Memory management](topic).
+    - Which course events are related to [Computer science](topic)?
+    - Which course events are dedicated to [Machine learning](topic)?
+    - Which course events specialize in [Artificial Intelligence](topic)?
+    - What are the course events that cover [Operating systems](topic)?
+    - Give me a list of course events that teach [Database](topic).
+    - Which course events offer [Memory management](topic)?
+    - Which course events include [Computer science](topic)?
+    - Which course events discuss [Machine learning](topic)?
+    - What are the course events that focus on [Artificial Intelligence](topic)?
+    - Show me the course events that involve [Operating systems](topic).
+    - Give me a list of course events that emphasize [Database](topic).
+    - Which course events are related to [Memory management](topic)?
+    - In which course events is [Computer science](topic) taught?
+    - In which course events is [Computer science](topic) discussed?
+
+- intent: courses_offeredby_uni
+  examples: |
+    - What courses are offered by [Concordia](university)?
+    - What courses are offered by [McGill](university)?
+    - What courses are offered by [UQAM](university)?
+    - List all the courses offered by [Concordia](university).
+    - In which courses can I enroll at [Concordia](university)?
+    - What are the courses available at [Concordia](university)?
+    - In [Concordia](university), what courses can I take?
+    - What are the courses that [Concordia](university) offers?
+    - What are the courses that [McGill](university) offers?
+    - At [Concordia](university), what courses are available?
+    - [Concordia](university) courses?
+
+- intent: topics_coveredby_course_in_lecturenumber
+  examples: |
+
+    - Which topics are covered in [Programming and Problem Solving](course) during [LEC6](lectureNumber)?
+    - What topics are covered in [Programming and Problem Solving](course) in [lecture number 3](lectureNumber)?
+    - Which topics are covered in the course [Programming and Problem Solving](course) in [LECTURE34](lectureNumber)?
+    - In [Programming and Problem Solving](course), what topics are covered in [lecture number 3](lectureNumber)?
+    - During [lecture number 3](lectureNumber) of [Programming and Problem Solving](course), which topics are covered?
+    - [Programming and Problem Solving](course) [lecture number 3](lectureNumber) topics?
+    - [lecture number 3](lectureNumber) of [Programming and Problem Solving](course) topics?
+
+- intent: courses_offeredby_uni_within_course
+  examples: |
+    -  List all the courses offered by [Concordia](university) within the [COMP](courseSubject) subject.
+    -  In which courses can I enroll at [Concordia](university) within the [COMP](courseSubject) subject?
+    -  What are the courses available at [Concordia](university) within the [COMP](courseSubject) subject?
+    -  In [Concordia University](university), what courses can I take within the [COMP](courseSubject) subject?
+    -  In [McGill University](university), what courses can I take within the [COMP](courseSubject) subject? 
+    -  What are the courses that [Concordia](university) offers within the [COMP](courseSubject) subject?
+    -  What are the courses that [McGill](university) offers within the [COMP](courseSubject) subject?
+    -  At [Concordia](university), what courses are available within the [COMP](courseSubject) subject?
+    -  [Concordia](university) courses within the [COMP](courseSubject) subject?
+    -  [McGill](university) courses within the [COMP](courseSubject) subject?
+
+- intent: materials_recommendation_for_topic_in_coursenumber
+  examples: |
+    -  What materials (slides, readings) are recommended for [Polymorphism](topic) in [COMP](courseSubject) [6741](courseNumber)?
+    -  What materials (slides, readings) are recommended for [Recursion](topic) in [COMP](courseSubject) [6741](courseNumber)?
+    - What content is recommended for [Object oriented programming](topic) in [COMP](courseSubject) [6741](courseNumber)?
+    - What slides are recommended for [File handling](topic) in [COMP](courseSubject) [6741](courseNumber)?
+    - What readings are recommended for [Data structures](topic) in [COMP](courseSubject) [6741](courseNumber)?
+    - What materials are recommended for [Knowledge Graphs](topic) in [COMP](courseSubject) [6721](courseNumber)?
+    - In [COMP](courseSubject) [6741](courseNumber), what materials are recommended for [Polymorphism](topic)?
+    - For [Recursion](topic) in [COMP](courseSubject) [6741](courseNumber), what materials are recommended?
+    - Materials for [Object oriented programming](topic) in [COMP](courseSubject) [6741](courseNumber)?
+    - Slides for [File handling](topic) in [COMP](courseSubject) [6741](courseNumber)?
+    - Readings for [Data structures](topic) in [COMP](courseSubject) [6741](courseNumber)?
+    - Materials for [Knowledge Graphs](topic) in [COMP](courseSubject) [6721](courseNumber)?
+
+- intent: credits_for_course
+  examples: |
+    -  How many credits is [COMP](courseSubject) [6741](courseNumber) worth?
+    -  How many credits is [COMP](courseSubject)[6741](courseNumber) worth?
+    - Is [COMP](courseSubject) [6741](courseNumber) a 3 credit course?
+    - How many credits is [COMP](courseSubject) [6741](courseNumber)?
+    - How many credits is [COMP](courseSubject) [6741](courseNumber) worth?
+    - For [COMP](courseSubject) [6741](courseNumber), how many credits are awarded?
+    - How many credits are awarded for [COMP](courseSubject) [6741](courseNumber)?
+    - How many credits is [COMP](courseSubject) [6741](courseNumber) worth?
+
+- intent: additional_resources_for_course
+  examples: |
+    -  For [COMP](courseSubject) [6741](courseNumber), what additional resources (links to web pages) are available?  
+    - In [COMP](courseSubject) [6741](courseNumber), what additional links are available?
+    - What additional resources are available for [COMP](courseSubject) [6741](courseNumber)?
+    - In [SOEN](courseSubject) [641](courseNumber), what additional resources are available?
+    - For [COMP](courseSubject) [6741](courseNumber), what additional resources are available?
+    - In [COMP](courseSubject) [6741](courseNumber), what additional resources are available?
+
+- intent: content_for_course_in_lecturenumber
+  examples: |
+    -   Detail the content (slides, worksheets, readings) available for [lecture 2](lectureNumber) in [COMP](courseSubject) [5555](courseNumber).
+    -   What slides is available for [lecture number 12](lectureNumber) in [SOEN](courseSubject) [343](courseNumber)?
+    -   What worksheets are available for [lecture 2](lectureNumber) in [COMP](courseSubject) [5555](courseNumber)?
+    -   What readings are available for [lecture 2](lectureNumber) in [COMP](courseSubject) [5555](courseNumber)?
+    -   What content is available for [lecture 2](lectureNumber) in [COMP](courseSubject) [5555](courseNumber)?
+    -   In [COMP](courseSubject) [5555](courseNumber), what content is available for [lecture 2](lectureNumber)?
+    -   For [lecture 2](lectureNumber) in [COMP](courseSubject) [5555](courseNumber), what content is available?
+    -   What content is available for [lecture 2](lectureNumber) in [COMP](courseSubject) [5555](courseNumber)?
+
+- intent: competencies_after_course_completion
+  examples: |
+    -   What competencies (topics) does a student gain after completing [SOEN](courseSubject) [343](courseNumber)?
+    -   What competencies (topics) does a student gain after completing [COMP](courseSubject) [5555](courseNumber)?
+    - In what topics does a student gain competency after completing [COMP](courseSubject) [5555](courseNumber)?
+    - What topics does a student gain competency in after completing [COMP](courseSubject) [5555](courseNumber)?
+    - After completing [COMP](courseSubject) [5555](courseNumber), what topics does a student gain competency in?
+    - Which topics does a student gain competency in after completing [COMP](courseSubject) [5555](courseNumber)?
+    - What topics does a student become proficient in after completing [COMP](courseSubject) [5555](courseNumber)?
+    - What topics does a student become proficient in after completing [SOEN](courseSubject) [12](courseNumber)?
+
+- intent: grades_for_student_in_course
+  examples: |
+    -   What grades did the student with ID [101])(studentID) achieve in [SOEN](courseSubject) [12](courseNumber)?
+    -   What grades did the student with ID [101](studentID) achieve in [COMP](courseSubject) [5555](courseNumber)?
+    - What grades did the student with ID [101](studentID) achieve in [COMP](courseSubject) [5555](courseNumber)?
+    - For the course [COMP](courseSubject) [5555](courseNumber), what grades did the student [101](studentID) achieve?
+    -   What grades did the student [101](studentID) achieve in [COMP](courseSubject) [5555](courseNumber)?
+    - The student with ID [101](studentID) achieved what grades in [COMP](courseSubject) [5555](courseNumber)?
+    - The student [101](studentID) achieved what grades in [COMP](courseSubject) [5555](courseNumber)?
+    - In [COMP](courseSubject) [5555](courseNumber), what grades did the student [101](studentID) achieve?
+
+- intent: students_completed_course
+  examples: |
+    -   Which students have completed [COMP](courseSubject) [5555](courseNumber)?
+    -   Which students have completed [SOEN](courseSubject) [12](courseNumber)?
+    - List the students who have completed [COMP](courseSubject) [5555](courseNumber).
+    - List the students who have completed [SOEN](courseSubject) [12](courseNumber).
+    - Who are the students who have completed [COMP](courseSubject) [5555](courseNumber)?
+    - Who are the students who have completed [SOEN](courseSubject) [12](courseNumber)?
+    - For the course [COMP](courseSubject) [5555](courseNumber), which students have completed it?  
+    - For the  [SOEN](courseSubject) [12](courseNumber) course, which students have completed it?
+
+- intent: transcript_for_student
+  examples: |
+    -   Print a transcript for a student [345345](studentID), listing all the course taken with their grades
+    - Generate a transcript for a student [9422](studentID), listing all the course taken with their grades
+    - Print a transcript for a student [345345](studentID)
+    - Generate a transcript for a student [9422](studentID)
+    - Print a transcript for a student [345345](studentID), listing all the course taken with their grades
+    - Generate a transcript for a student [9422](studentID), listing all the course taken with their grades
+    - What are all the grades that the student [101](studentID) achieve?
+    - Transcript for student with ID [101](studentID)?
+
+
+  
+
+
+
+    

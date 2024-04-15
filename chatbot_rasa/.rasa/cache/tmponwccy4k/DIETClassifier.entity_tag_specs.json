@@ -1,0 +1,36 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-courseNumber",
+      "2": "I-courseNumber",
+      "3": "L-courseNumber",
+      "4": "U-courseNumber",
+      "5": "B-courseSubject",
+      "6": "I-courseSubject",
+      "7": "L-courseSubject",
+      "8": "U-courseSubject",
+      "9": "B-lectureNumber",
+      "10": "I-lectureNumber",
+      "11": "L-lectureNumber",
+      "12": "U-lectureNumber",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-courseNumber": 1,
+      "I-courseNumber": 2,
+      "L-courseNumber": 3,
+      "U-courseNumber": 4,
+      "B-courseSubject": 5,
+      "I-courseSubject": 6,
+      "L-courseSubject": 7,
+      "U-courseSubject": 8,
+      "B-lectureNumber": 9,
+      "I-lectureNumber": 10,
+      "L-lectureNumber": 11,
+      "U-lectureNumber": 12,
+      "O": 0
+    },
+    "num_tags": 13
+  }
+]
