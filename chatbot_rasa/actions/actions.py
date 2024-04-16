@@ -312,6 +312,8 @@ class CreditsWorthOfCourse(Action):
         course_subject = tracker.slots['courseSubject']
         course_number = tracker.slots['courseNumber']
 
+        #print(course_subject, course_number)
+
         sparql_query = f"""
         PREFIX ac: <http://umbel.org/umbel/ac/>
         PREFIX prefix: <http://prefix.cc/>
@@ -332,6 +334,8 @@ class CreditsWorthOfCourse(Action):
         }}
         """
 
+        print(sparql_query)
+
         response = make_fuseki_server_request(sparql_query)
 
         y = json.loads(response.text)
@@ -341,6 +345,9 @@ class CreditsWorthOfCourse(Action):
         course_credits = []
         for course in y:
             course_credits = course['courseCredits']['value']
+        
+        print(y)
+        print(course_credits)
 
         response = rewrite_with_llm(f"The number of credits awarded for completing {course_subject} {course_number} is: \n", course_credits)
 

@@ -1,25 +1,36 @@
 <html>
-    <body>
-        <script>!(function () {
-            let e = document.createElement("script"),
-              t = document.head || document.getElementsByTagName("head")[0];
-            (e.src =
-              "https://cdn.jsdelivr.net/npm/rasa-webchat/lib/index.js"),
-              // Replace 1.x.x with the version that you want
-              (e.async = !0),
-              (e.onload = () => {
-                window.WebChat.default(
-                  {
-                    initPayload: "/greet",
-                    customData: { language: "en" },
-                    socketUrl: "http://localhost:5005",
-                    // add other props here
-                  },
-                  null
-                );
-              }),
-              t.insertBefore(e, t.firstChild);
-          })();
-          </script>
-    </body>
+  <head>
+    <link rel="stylesheet" href="https://npm-scalableminds.s3.eu-central-1.amazonaws.com/@scalableminds/chatroom@master/dist/Chatroom.css" />
+  </head>
+  <body>
+    <div id="webchat"/>
+<script>
+  WebChat.default.init({
+    selector: "#webchat",
+    initPayload: "/get_started",
+    interval: 1000, // 1000 ms between each message
+    customData: {"userId": "123"}, // arbitrary custom data. Stay minimal as this will be added to the socket
+    socketUrl: "http://localhost:8098",
+    socketPath: "/socket.io/",
+    title: "Title",
+    subtitle: "Subtitle",
+    inputTextFieldHint: "Type a message...",
+    connectingText: "Waiting for server...",
+    hideWhenNotConnected: false,
+    fullScreenMode: false,
+    profileAvatar: "http://to.avat.ar",
+    openLauncherImage: 'myCustomOpenImage.png',
+    closeLauncherImage: 'myCustomCloseImage.png',
+    params: {
+      images: {
+        dims: {
+          width: 300,
+          height: 200,
+        }
+      },
+      storage: "local"
+    }
+  })
+</script>
+  </body>
 </html>
