@@ -327,7 +327,16 @@ nlu:
     - Transcript for student with ID [101](studentID)?
 
 
-  
+- intent: out_of_scope
+  examples: |
+    - I want to order food
+    - What is 2 + 2?
+    - Who's the US President?
+    - Tell me a joke
+    - I want to learn about Rasa
+    - Why is Montreal so cold?
+    - What is the meaning of life?
+
 
 
 

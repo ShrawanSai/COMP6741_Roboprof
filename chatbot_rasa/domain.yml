@@ -94,7 +94,7 @@ responses:
   utter_iamabot:
   - text: "I am the Roboprof Chatbot, powered by Rasa."
 
-  utter_default:
+  utter_out_of_scope:
   - text: "I am sorry, I do not understand your question. Maybe you can try rephrasing it? I know a lot about courses, students, and universities."
 
 session_config:
