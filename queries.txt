@@ -1,0 +1,28 @@
+1) What is course COMP 6481 about? (about_course)
+
+2) Tell me the topics that will be covered in COMP 6481 lecture number 2. (about_course_lecture_topics)
+
+3) List the course events that teach Inheritance. (about_course_topic)
+
+4) At Concordia university, what courses are available? (courses_offeredby_uni)
+
+5) In Programming and Problem Solving, what topics are covered in LEC3? (topics_coveredby_course_in_lecturenumber)
+
+6) What are the courses that Concordia university offers within the COMP subject? (courses_offeredby_uni_within_course)
+
+7) What materials are recommended for Knowledge_Graph in COMP 6741?
+What materials are recommended for Inheritance in COMP 6741? (materials_recommendation_for_topic_in_coursenumber)
+
+8) How many credits is COMP 6741 worth? (credits_for_course)
+
+9) For COMP 6741, what additional resources are available? (additional_resources_for_course)
+
+10) In COMP 6741, what content is available for lecture 2? (content_for_course_in_lecturenumber)
+
+11) What topics does a student become proficient in after completing COMP 6741? (competencies_after_course_completion)
+
+12) What grades did the student 101 achieve in COMP 6741? (grades_for_student_in_course)
+
+13)  List the students who have completed COMP 6741. (students_completed_course)
+
+14) Generate a transcript for a student 101, listing all the course taken with their grades (transcript_for_student)
