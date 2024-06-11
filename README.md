@@ -1,6 +1,6 @@
-# COMP6741_Roboprof
+# Montreal_Roboprof
 
-## Group AZ_G_06
+
 
 
 ### Guide to Repo structure
